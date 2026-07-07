@@ -1,0 +1,47 @@
+# Calibration thresholds for the F-01 skill optimizer.
+#
+# decide()'s cost gate, the detectors' cross-trace occurrence floors, D007's
+# size/trim heuristics, the verifier's replay parameters. Baked-in defaults live
+# in src/skill_optimizer/config/calibration.py; this file overrides them. Detectors
+# keep their explicit threshold params for tests — the param *defaults* come from here.
+
+# decide(): AUTO_APPLY only when the cost win clears this (% — positive number,
+# applied as -min_cost_win_pct); FLAG when the mean wins but the variance band
+# crosses; REJECT otherwise or on any equivalence regression.
+min_cost_win_pct: 10.0
+
+# Cross-trace gate: a waste pattern must recur in at least this many distinct
+# captured runs before it's reported.
+d001_min_occurrences: 3   # RedundantLookup — strict byte-equal matches; needs more evidence
+d003_min_occurrences: 2   # ToolReliability — failure patterns are rarer
+d004_min_occurrences: 3   # ModelTier
+d006_min_occurrences: 2   # EnvSetupRepeat
+d008_min_occurrences: 3   # Parallelization
+d012_min_occurrences: 3   # ScriptReDerivation — same function re-authored across this many runs
+
+# D001: a (tool, input) pair must repeat at least this many times within one trace
+# to count as a redundant lookup there.
+d001_intra_trace_min: 2
+
+# D003: difflib similarity ratio above which a failed call + a same-tool retry
+# count as "the same call retried".
+d003_similarity_threshold: 0.5
+
+# D004: latency proxy for a one-tier downgrade (Anthropic-public throughput ratio).
+# Heuristic until N-replay wall-clock supersedes it.
+d004_tier_latency_pct: -40.0
+
+# D005: an input needs >= min_replays captures to be evidence; need >= min_inputs
+# such inputs before claiming determinism.
+d005_min_inputs: 2
+d005_min_replays: 2
+
+# D007: a SKILL.md below this many chars isn't worth an LLM tightening pass;
+# trim_fraction is the assumed removable share (for the cost estimate only).
+d007_min_chars: 1800
+d007_trim_fraction: 0.25
+
+# Verifier: replays per holdout input (N>1 gives the variance band); per-replay
+# SDK timeout in seconds.
+verifier_n_replays: 3
+verifier_replay_timeout_s: 240

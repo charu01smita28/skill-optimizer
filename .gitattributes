@@ -1,0 +1,10 @@
+# Collapse bulk fixtures in GitHub PR diffs. These are sample inputs / expected
+# outputs / per-run outputs / captured trace corpora — auto-generated fixtures
+# that aren't review-worthy. SKILL.md stays expanded (the skill spec IS).
+demo/skills/*/sample_inputs/**       linguist-generated=true
+demo/skills/*/expected_outputs/**    linguist-generated=true
+demo/skills/*/output.json            linguist-generated=true
+
+# Captured Claude Code session JSONLs + their paired output.json + manifest.json
+# for the three headline demo skills shipped under traces/.
+traces/**                            linguist-generated=true

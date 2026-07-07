@@ -1,0 +1,82 @@
+# Secrets — never commit
+.env
+.env.local
+.env.*.local
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+*.egg
+build/
+dist/
+.eggs/
+
+# Virtualenvs
+.venv/
+venv/
+env/
+ENV/
+
+# Test / type / lint caches
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+coverage.xml
+.mypy_cache/
+.ruff_cache/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Private working notes
+MY-PLAN.md
+PLAN.md
+private/
+
+# Auto-generated context bundles (claude-mem) — never commit; contain private session context.
+CLAUDE.md
+
+# Local-only fixtures, traces, and scripts — never push
+test_byo/
+tmp/
+scripts/show_today.py
+scripts/map_trace_fields.py
+scripts/verify_current_trace.py
+
+# testing scripts
+scripts/inspect_trace.py
+scripts/smoke_test_llm.py
+scripts/inspect_d001.py
+scripts/inspect_d012.py
+scripts/diff_replay.py
+
+docs/TRACE-FIELDS-ANNOTATED.md
+
+# Per-run skill outputs (regenerated on every run — not for tracking)
+demo/skills/*/output.json
+demo/skills/*/output_sdk_*.json
+
+# Captured trace corpora — ship the 4 demos that cover the named workflow areas
+# (invoices, contracts, reports*, plus the loan_calculator generalization headline);
+# everything else stays local (reviewer regenerates via `python scripts/capture_traces.py`).
+# *release_notes_compiler stands in for the "reports" area + adds the D003+D006+D008 demo.
+traces/*
+!traces/invoice_validator/
+!traces/loan_calculator/
+!traces/release_notes_compiler/
+!traces/contract_redline_reviewer/
+
+# Per-run optimizer outputs (auto-generated on every run)
+runs/
