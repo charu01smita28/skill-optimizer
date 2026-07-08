@@ -5,7 +5,7 @@ build-backend = "hatchling.build"
 [project]
 name = "skill-optimizer"
 version = "0.0.1"
-description = "F-01: Execution-log-driven skill optimization for Claude Code skills."
+description = "Execution-log-driven skill optimization for Claude Code skills."
 readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [

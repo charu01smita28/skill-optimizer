@@ -1,4 +1,4 @@
-# F-01 — Execution-Log-Driven Skill Optimization
+# Skill Optimizer — Execution-Log-Driven Skill Optimization
 
 A system that reads Claude Code execution traces, identifies where a skill spends more than it needs to (cost, latency, reliability), and rewrites the skill to close those gaps without regressing output quality.
 
@@ -222,11 +222,11 @@ Defaults are pragmatic — chosen from demo-skill trace characteristics; the loa
 - [`docs/APPROACH.md`](docs/APPROACH.md) — scope, detector hypotheses, verification methodology, calibration approach, success criteria.
 - [`docs/ARCHITECTURE.md`](docs/ARCHITECTURE.md) — domain model, ports/adapters, evaluation harness, cost accounting, audit trail.
 
-## F-01 specification coverage
+## Specification coverage
 
-Direct mapping from the F-01 catalog's seven optimization categories to the architecture's detector roster (per [`docs/APPROACH.md`](docs/APPROACH.md)).
+Direct mapping from the design brief's seven optimization categories to the architecture's detector roster (per [`docs/APPROACH.md`](docs/APPROACH.md)).
 
-| # | Spec category | Spec wording (FEATURE-CATALOG.md F-01) | Detector | Mutation | Tier (Detect · Mutate) |
+| # | Spec category | Spec wording (design brief) | Detector | Mutation | Tier (Detect · Mutate) |
 |---|---|---|---|---|---|
 | 1 | Extract reusable scripts | *"stop re-deriving the same code inside the prompt every run; persist it as a callable artifact"* | **D012** ScriptReDerivation | `helper_extract` | Tier 2 · Tier 2 |
 | 2 | Persist environment setup | *"detect tools, dependencies, or resources being installed or fetched on every run and cache them between executions"* | **D006** EnvSetupRepeat | `cache_strategy_rewrite` | Tier 1 · Tier 2 |

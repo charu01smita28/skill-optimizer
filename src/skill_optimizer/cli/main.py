@@ -61,7 +61,7 @@ SPLIT_SEED = 42
 
 
 def _parse_args() -> argparse.Namespace:
-    p = argparse.ArgumentParser(prog="skopt", description="F-01 skill optimizer (spike).")
+    p = argparse.ArgumentParser(prog="skopt", description="Skill optimizer (spike).")
     sub = p.add_subparsers(dest="cmd", required=True)
     opt = sub.add_parser("optimize", help="Run the full optimization pipeline.")
     opt.add_argument("--skill", required=True, type=Path)

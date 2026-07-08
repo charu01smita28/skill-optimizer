@@ -1,4 +1,4 @@
-# Calibration thresholds for the F-01 skill optimizer.
+# Calibration thresholds for the skill optimizer.
 #
 # decide()'s cost gate, the detectors' cross-trace occurrence floors, D007's
 # size/trim heuristics, the verifier's replay parameters. Baked-in defaults live
