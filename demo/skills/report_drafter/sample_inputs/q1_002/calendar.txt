@@ -1,0 +1,4 @@
+2027-01-06  Q1 Kickoff. Decision: AI Agents launch is the only top-line deliverable; everything else supports it.
+2027-01-31  Alpha Demo. Decision: alpha is stable enough for limited beta; gate on usage telemetry.
+2027-02-25  Beta Review. Decision: GA target March 19 confirmed; sandbox hardening is launch-blocker.
+2027-03-20  GA Launch Retro. Decision: agents in production; on-call rotation expanded.

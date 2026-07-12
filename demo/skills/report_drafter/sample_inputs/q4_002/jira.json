@@ -1,0 +1,6 @@
+[
+  {"key": "SVC-620", "title": "Stripe migration phase 3", "theme": "billing", "closed_on": "2026-10-15"},
+  {"key": "SVC-625", "title": "Backfill historical invoices in Stripe", "theme": "billing", "closed_on": "2026-11-04"},
+  {"key": "SVC-630", "title": "Decommission legacy billing service", "theme": "billing", "closed_on": "2026-11-22"},
+  {"key": "SVC-635", "title": "Stripe webhook reliability hardening", "theme": "billing", "closed_on": "2026-12-10"}
+]

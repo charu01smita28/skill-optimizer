@@ -1,0 +1,10 @@
+Subject: Invoice line items don't match our PO
+
+Hi,
+
+We received invoice INV-58112 last week and the line items do not match our purchase order PO-9921. Specifically, the invoice charges us for an "enterprise add-on" line that was struck out of our signed order form. Our procurement and legal team flagged this when reviewing the invoice.
+
+Can someone re-issue with the correct line items? If there is a misunderstanding about scope we may also need to talk through what the signed order form includes.
+
+Best,
+Marc — Procurement, Hartwell Industries

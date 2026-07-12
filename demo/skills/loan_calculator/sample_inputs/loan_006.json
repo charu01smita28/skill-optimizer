@@ -1,0 +1,12 @@
+{
+  "loan_id": "MORT-2026-9001",
+  "lender": "Harborline Lending",
+  "currency": "USD",
+  "principal": 275000.0,
+  "annual_rate_pct": 6.875,
+  "term_months": 240,
+  "origination_fee": 1295.0,
+  "stated_monthly_payment": 2111.49,
+  "stated_total_interest": 231757.6,
+  "stated_total_paid": 508052.6
+}

@@ -1,0 +1,17 @@
+{
+  "invoice_id": "MH-2026-03-0091",
+  "vendor": "Stonebridge Managed Hosting",
+  "currency": "USD",
+  "line_items": [
+    { "description": "Managed hosting — monthly", "quantity": 1, "unit_price": 4200.00 },
+    { "description": "Bandwidth overage", "quantity": 1, "unit_price": 318.00 },
+    { "description": "Backup storage — 2TB", "quantity": 1, "unit_price": 96.00 }
+  ],
+  "discount_pct": 0,
+  "tax_rate": 7,
+  "shipping": 0.00,
+  "stated_subtotal": 4614.00,
+  "stated_discount": 0.00,
+  "stated_tax": 322.98,
+  "stated_total": 4963.98
+}

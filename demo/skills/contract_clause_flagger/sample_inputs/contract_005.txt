@@ -1,0 +1,13 @@
+MUTUAL NON-DISCLOSURE AGREEMENT — Sapphire Research Group
+
+Section 1. Confidential Information
+"Confidential Information" means any and all information, in any form, disclosed by either party to the other, whether orally, in writing, electronically, or by observation, including but not limited to business plans, customer lists, financial information, technical specifications, prototypes, source code, employee information, vendor relationships, marketing strategies, pricing, methodologies, processes, research data, and any information that a reasonable person would understand to be confidential under the circumstances, regardless of whether such information is marked or identified as confidential at the time of disclosure.
+
+Section 3. Obligations
+Each party shall use the other party's Confidential Information solely in furtherance of the purpose described in the recitals and shall protect such information using at least the same degree of care it uses to protect its own confidential information of similar sensitivity, and in no event less than a reasonable degree of care.
+
+Section 4. Term
+The obligations of confidentiality under this Agreement shall survive termination and shall continue in perpetuity with respect to trade secrets, and for a period of seven (7) years with respect to all other Confidential Information.
+
+Section 6. No License
+Nothing in this Agreement shall be construed as granting any license, by implication or otherwise, to any patent, copyright, trademark, or other intellectual property right of either party.

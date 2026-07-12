@@ -1,0 +1,5 @@
+2026-10-19  Postmortem: payments outage. Decision: vendor SLA review; secondary processor in Q1.
+2026-10-30  Postmortem: auth cascade. Decision: enforce circuit breakers on all internal calls.
+2026-11-13  Postmortem: ingest stall. Decision: per-stage liveness probes mandatory.
+2026-12-01  Reliability Council. Decision: declare incident-response moratorium on non-essential ships during Dec.
+2026-12-16  Q4 Retro. Decision: Q1 must focus on platform resilience, not new features.

@@ -1,0 +1,4 @@
+2026-07-10  Q3 Kickoff. Decision: theme is "growth and acquisition."
+2026-07-25  Eng Sync. Decision: deprioritize growth, focus on performance pre-launch.
+2026-08-29  Eng Sync. Decision: actually growth IS the theme; revisit launch readiness in Q4.
+2026-09-29  Q3 Retro. Decision: themes were not well-communicated, fix process in Q4.

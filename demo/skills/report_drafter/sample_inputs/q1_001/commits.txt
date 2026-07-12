@@ -1,0 +1,8 @@
+b8c01ab yara@co Remove legacy payment processor adapter (PAY-101)
+b8c02bc yara@co Drop legacy payments tables (PAY-101)
+b8c03cd zeke@co Final Stripe invoice backfill (PAY-105)
+b8c04de aiko@co Self-serve trial sign-up flow (GROW-201)
+b8c05ef aiko@co Trial-to-paid conversion tracking (GROW-201)
+b8c06fg ben@co In-app upgrade prompt (GROW-205)
+b8c07gh ben@co Upgrade prompt experiment framework (GROW-205)
+b8c08hi cora@co Conversion analytics dashboard (GROW-210)

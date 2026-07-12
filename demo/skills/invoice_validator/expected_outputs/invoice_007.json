@@ -1,0 +1,19 @@
+{
+  "invoice_id": "MH-2026-03-0091",
+  "vendor": "Stonebridge Managed Hosting",
+  "computed": {
+    "subtotal": 4614.0,
+    "discount": 0.0,
+    "tax": 322.98,
+    "total": 4936.98
+  },
+  "discrepancies": [
+    {
+      "field": "total",
+      "stated": 4963.98,
+      "computed": 4936.98,
+      "delta": -27.0
+    }
+  ],
+  "valid": false
+}

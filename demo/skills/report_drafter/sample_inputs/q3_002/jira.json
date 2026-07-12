@@ -1,0 +1,7 @@
+[
+  {"key": "BUG-401", "title": "Outage: search index stale 2h", "theme": "incident", "closed_on": "2026-07-22"},
+  {"key": "BUG-415", "title": "Memory leak in worker fleet", "theme": "incident", "closed_on": "2026-08-08"},
+  {"key": "BUG-420", "title": "Rate limit bypass via header", "theme": "incident", "closed_on": "2026-08-19"},
+  {"key": "BUG-432", "title": "Webhook retry storm", "theme": "incident", "closed_on": "2026-09-02"},
+  {"key": "FEAT-205", "title": "Add CSV export for reports", "theme": "feature", "closed_on": "2026-09-25"}
+]

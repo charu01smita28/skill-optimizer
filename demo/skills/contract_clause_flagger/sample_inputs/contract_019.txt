@@ -1,0 +1,13 @@
+CLOUD HOSTING AGREEMENT — Vesper Health Networks
+
+Section 2. Data Residency
+Customer Data shall be stored, processed, and backed up exclusively within data centers physically located in the European Union. Provider shall not transfer Customer Data outside the EU for any reason without Customer's prior written consent. Operational metadata (e.g., system logs, billing telemetry) is excluded from this restriction.
+
+Section 4. Encryption and Key Management
+All Customer Data shall be encrypted in transit using TLS 1.3 or higher and at rest using AES-256. Customer shall have the option to use Customer-Managed Encryption Keys (CMEK) hosted in a third-party HSM of Customer's choice, in which case Provider's access to Customer Data is mediated by Customer's key authorization.
+
+Section 6. Breach Notification
+In the event of a confirmed Security Incident affecting Customer Data, Provider shall notify Customer without undue delay and in any event within twenty-four (24) hours of confirmation. Notification shall include, to the extent then known, the nature of the Incident, categories and approximate volume of data affected, and remedial actions taken or planned.
+
+Section 9. Sub-processors
+Provider shall not engage any new sub-processor with access to Customer Data without providing Customer at least thirty (30) days' prior written notice and a reasonable opportunity to object. If Customer objects, Provider shall either decline to engage the proposed sub-processor or, at Customer's election, terminate the affected portion of the Services without penalty and refund any prepaid fees.

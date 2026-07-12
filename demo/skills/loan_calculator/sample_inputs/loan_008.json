@@ -1,0 +1,12 @@
+{
+  "loan_id": "MORT-2026-0808",
+  "lender": "Summit Home Loans",
+  "currency": "USD",
+  "principal": 380000.0,
+  "annual_rate_pct": 6.5,
+  "term_months": 360,
+  "origination_fee": 1500.0,
+  "stated_monthly_payment": 2401.86,
+  "stated_total_interest": 484237.5,
+  "stated_total_paid": 866169.6
+}

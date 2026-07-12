@@ -1,0 +1,5 @@
+2026-07-15  Q3 Kickoff. Decision: focus on platform + reliability + onboarding.
+2026-08-05  Architecture Review: Auth migration. Decision: proceed with JWT, retire session store by end-Aug.
+2026-08-28  Reliability Sync. Decision: target p99 < 200ms on /search by end of quarter.
+2026-09-18  Onboarding Demo. Decision: ship self-serve onboarding to GA in Q3.
+2026-09-29  Q3 Retro. Decision: roll over PLAT-220 (rate limiter) to Q4.

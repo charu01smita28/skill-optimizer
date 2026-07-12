@@ -1,0 +1,6 @@
+[
+  {"key": "DOC-901", "title": "API reference revamp", "theme": "docs", "closed_on": "2026-10-28"},
+  {"key": "DOC-905", "title": "Cookbook: webhook patterns", "theme": "docs", "closed_on": "2026-11-15"},
+  {"key": "DOC-910", "title": "Onboarding tutorial videos", "theme": "docs", "closed_on": "2026-12-05"},
+  {"key": "DOC-915", "title": "Migration guide v3 → v4", "theme": "docs", "closed_on": "2026-12-18"}
+]

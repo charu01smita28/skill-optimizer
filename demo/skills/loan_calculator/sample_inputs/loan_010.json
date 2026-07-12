@@ -1,0 +1,12 @@
+{
+  "loan_id": "AUTO-2026-9911",
+  "lender": "Ridgegate Motors Finance",
+  "currency": "USD",
+  "principal": 28750.0,
+  "annual_rate_pct": 5.49,
+  "term_months": 60,
+  "origination_fee": 450.0,
+  "stated_monthly_payment": 549.03,
+  "stated_total_interest": 4191.8,
+  "stated_total_paid": 32941.8
+}

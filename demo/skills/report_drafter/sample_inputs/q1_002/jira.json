@@ -1,0 +1,6 @@
+[
+  {"key": "AGENT-101", "title": "AI Agents — alpha release", "theme": "agents", "closed_on": "2027-01-30"},
+  {"key": "AGENT-105", "title": "AI Agents — beta cohort onboarded", "theme": "agents", "closed_on": "2027-02-22"},
+  {"key": "AGENT-110", "title": "AI Agents — GA launch", "theme": "agents", "closed_on": "2027-03-19"},
+  {"key": "AGENT-115", "title": "Agent execution sandbox hardening", "theme": "agents", "closed_on": "2027-03-26"}
+]

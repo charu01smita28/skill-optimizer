@@ -1,0 +1,6 @@
+[
+  {"key": "PERF-501", "title": "Profile hot path on /api/search", "theme": "performance", "closed_on": "2026-08-01"},
+  {"key": "PERF-510", "title": "Reduce DB calls per request", "theme": "performance", "closed_on": "2026-08-22"},
+  {"key": "PERF-520", "title": "Add cache layer for /api/list", "theme": "performance", "closed_on": "2026-09-12"},
+  {"key": "GROW-301", "title": "Onboarding A/B test", "theme": "growth", "closed_on": "2026-09-25"}
+]

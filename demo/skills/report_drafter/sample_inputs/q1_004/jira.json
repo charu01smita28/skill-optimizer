@@ -1,0 +1,7 @@
+[
+  {"key": "MA-101", "title": "Acquired-codebase: import & vendor", "theme": "m-and-a-integration", "closed_on": "2027-01-28"},
+  {"key": "MA-105", "title": "Acquired-codebase: shared auth migration", "theme": "m-and-a-integration", "closed_on": "2027-02-18"},
+  {"key": "MA-110", "title": "Acquired-codebase: customer data migration", "theme": "m-and-a-integration", "closed_on": "2027-03-12"},
+  {"key": "MA-115", "title": "Acquired-codebase: brand sunset plan", "theme": "m-and-a-integration", "closed_on": "2027-03-25"},
+  {"key": "PLAT-810", "title": "Cross-product feature flag service", "theme": "platform", "closed_on": "2027-03-15"}
+]

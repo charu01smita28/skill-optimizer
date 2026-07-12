@@ -1,0 +1,5 @@
+2026-10-08  Q4 Kickoff. Decision: parallel tracks across platform, reliability, feature, security, DX.
+2026-11-05  Platform Sync. Decision: partitioning + region-aware routing unlock multi-tenancy roadmap.
+2026-11-20  Reliability Council. Decision: idempotency by default on all new write APIs.
+2026-12-09  Security Sync. Decision: admin audit log mandatory before next compliance review.
+2026-12-19  Q4 Retro. Decision: largest delivery quarter on record; cap Q1 scope to avoid burnout.

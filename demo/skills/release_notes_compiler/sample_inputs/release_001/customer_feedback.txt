@@ -1,0 +1,5 @@
+- Multiple enterprise customers reported the dashboard "feels sluggish" — top complaint in the Q2 NPS survey.
+- Three signups per week were abandoned at step-3 of the old flow (product analytics).
+- Customer success raised a recurring ask for inline guidance on the first-run experience; new users miss the metrics they'd care about most.
+- One customer note: "your docs assume I already know your auth model" — friction point during integration.
+- A few high-volume customers noted slow load times specifically when listing workspace members; mid-sized workspaces (50-200 members) hit it hardest.

@@ -1,0 +1,17 @@
+{
+  "invoice_id": "INV-2026-5530",
+  "vendor": "Quarry Platform Inc.",
+  "currency": "USD",
+  "line_items": [
+    { "description": "Platform subscription — Growth", "quantity": 1, "unit_price": 1800.00 },
+    { "description": "Additional API quota block", "quantity": 4, "unit_price": 150.00 },
+    { "description": "Dedicated success manager", "quantity": 1, "unit_price": 1000.00 }
+  ],
+  "discount_pct": 12,
+  "tax_rate": 6.25,
+  "shipping": 0.00,
+  "stated_subtotal": 3400.00,
+  "stated_discount": 480.00,
+  "stated_tax": 182.50,
+  "stated_total": 3102.50
+}

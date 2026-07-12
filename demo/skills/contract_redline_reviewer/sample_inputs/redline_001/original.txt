@@ -1,0 +1,9 @@
+SOFTWARE LICENSE AGREEMENT
+
+1. TERM. This Agreement commences on the Effective Date and continues for an initial term of one (1) year. The Agreement automatically renews for successive one-year terms unless either party provides written notice of non-renewal at least thirty (30) days prior to the end of the then-current term.
+
+2. INDEMNIFICATION. Each party shall indemnify, defend, and hold harmless the other party from and against any third-party claims arising out of the indemnifying party's gross negligence or willful misconduct, in each case subject to the liability cap set forth in Section 4.
+
+3. INTELLECTUAL PROPERTY. Each party retains all right, title, and interest in and to its own pre-existing intellectual property. Customer shall own all right, title, and interest in any deliverables produced specifically for Customer under this Agreement.
+
+4. LIABILITY. Each party's aggregate liability under this Agreement is capped at the fees paid by Customer in the twelve (12) months preceding the claim.

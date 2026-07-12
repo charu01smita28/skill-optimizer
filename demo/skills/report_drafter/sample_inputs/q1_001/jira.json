@@ -1,0 +1,7 @@
+[
+  {"key": "PAY-101", "title": "Wind down legacy payments codepath", "theme": "payments-legacy", "closed_on": "2027-01-22"},
+  {"key": "PAY-105", "title": "Final invoice migration to Stripe", "theme": "payments-legacy", "closed_on": "2027-02-05"},
+  {"key": "GROW-201", "title": "Self-serve trial sign-up", "theme": "growth", "closed_on": "2027-02-20"},
+  {"key": "GROW-205", "title": "In-app upgrade prompt", "theme": "growth", "closed_on": "2027-03-08"},
+  {"key": "GROW-210", "title": "Conversion analytics dashboard", "theme": "growth", "closed_on": "2027-03-22"}
+]

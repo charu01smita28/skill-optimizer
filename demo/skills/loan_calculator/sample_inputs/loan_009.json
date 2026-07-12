@@ -1,0 +1,12 @@
+{
+  "loan_id": "PERS-2026-4422",
+  "lender": "Bayside Personal Finance",
+  "currency": "USD",
+  "principal": 15000.0,
+  "annual_rate_pct": 11.5,
+  "term_months": 24,
+  "origination_fee": 200.0,
+  "stated_monthly_payment": 702.6,
+  "stated_total_interest": 1862.4,
+  "stated_total_paid": 17119.4
+}

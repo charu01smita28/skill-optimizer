@@ -1,0 +1,3 @@
+2027-01-09  Q1 Kickoff. Decision: tech-debt sprint quarter — no new features ship.
+2027-02-13  Mid-quarter Check. Decision: continue debt focus; build a debt scorecard.
+2027-03-26  Q1 Retro. Decision: codebase is materially leaner; debt scorecard becomes a quarterly KPI.

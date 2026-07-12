@@ -1,0 +1,5 @@
+2027-01-07  Q1 Kickoff. Decision: M&A integration is critical path; PLAT supports.
+2027-01-29  Acquired-Codebase Review. Decision: vendoring strategy chosen over rewrite.
+2027-02-19  Auth Migration Cutover. Decision: shared identity stack adopted; deprecate legacy in Q2.
+2027-03-13  Customer Migration Wrap. Decision: all acquired tenants migrated; brand sunset starts Q2.
+2027-03-26  Q1 Retro. Decision: integration on plan; budget more time for brand sunset comms.

@@ -1,0 +1,12 @@
+{
+  "loan_id": "PERS-2026-5511",
+  "lender": "Northpoint Personal",
+  "currency": "USD",
+  "principal": 10000.0,
+  "annual_rate_pct": 9.99,
+  "term_months": 36,
+  "origination_fee": 150.0,
+  "stated_monthly_payment": 322.62,
+  "stated_total_interest": 1614.32,
+  "stated_total_paid": 11764.32
+}

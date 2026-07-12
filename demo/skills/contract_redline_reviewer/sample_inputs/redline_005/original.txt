@@ -1,0 +1,11 @@
+DATA SERVICES AGREEMENT
+
+§1 TERM. The initial term is two (2) years. The Agreement automatically renews for successive one-year terms unless either party provides forty-five (45) days written notice of non-renewal.
+
+§2 INDEMNIFICATION. Each party shall indemnify the other for third-party IP infringement claims, capped at the fees paid by Customer in the prior twelve (12) months.
+
+§3 INTELLECTUAL PROPERTY. Provider retains all rights to its Services. Customer retains all rights to its Customer Data.
+
+§4 LIMITATION OF LIABILITY. Each party's aggregate liability under this Agreement is capped at the fees paid by Customer in the prior twelve (12) months. Neither party is liable for indirect, consequential, or punitive damages.
+
+§5 DATA HANDLING. Customer Data is processed in accordance with the Data Processing Addendum and applicable data protection laws.

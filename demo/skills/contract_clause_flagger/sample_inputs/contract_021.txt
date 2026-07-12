@@ -1,0 +1,9 @@
+AMENDMENT NO. 2 TO MUTUAL NON-DISCLOSURE AGREEMENT
+
+Reference: Mutual NDA between the parties dated 2024-02-10 ("the NDA").
+
+The parties hereby agree that Section 4 (Term) of the NDA is deleted in its entirety and replaced with the following:
+
+  "Section 4. Term. The obligations of confidentiality under this Agreement shall continue indefinitely with respect to all Confidential Information disclosed hereunder, regardless of whether such information constitutes a trade secret under applicable law."
+
+All other terms and conditions of the NDA remain unchanged and in full force and effect.

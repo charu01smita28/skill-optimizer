@@ -1,0 +1,7 @@
+e10a01a paula@co Cut over checkout to Stripe (SVC-620)
+e10a02b paula@co Stripe webhook signature verification (SVC-620)
+e10a03c quinn@co Backfill script for historical invoices (SVC-625)
+e10a04d quinn@co Reconciliation report for backfilled invoices (SVC-625)
+e10a05e ravi@co Remove legacy billing service entrypoint (SVC-630)
+e10a06f ravi@co Drop legacy billing tables from schema (SVC-630)
+e10a07g paula@co Add Stripe webhook retry tracking (SVC-635)

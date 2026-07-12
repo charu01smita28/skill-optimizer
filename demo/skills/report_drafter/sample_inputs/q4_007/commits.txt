@@ -1,0 +1,7 @@
+d4e01ab indra@co Workflow builder canvas (FEAT-401)
+d4e02bc indra@co Workflow builder execution engine (FEAT-401)
+d4e03cd jules@co Bulk import wizard UI (FEAT-405)
+d4e04de jules@co Bulk import row validator (FEAT-405)
+d4e05ef kai@co Dashboard widget framework (FEAT-410)
+d4e06fg kai@co Three default widgets (FEAT-410)
+d4e07gh leila@co Inline commenting on reports (FEAT-415)

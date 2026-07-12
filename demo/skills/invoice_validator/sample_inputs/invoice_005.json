@@ -1,0 +1,17 @@
+{
+  "invoice_id": "WS-2026-0412",
+  "vendor": "Calderon Workshop Partners",
+  "currency": "USD",
+  "line_items": [
+    { "description": "Workshop facilitation — full day", "quantity": 3, "unit_price": 2200.00 },
+    { "description": "Materials & printing", "quantity": 1, "unit_price": 350.00 },
+    { "description": "Recording & editing", "quantity": 1, "unit_price": 800.00 }
+  ],
+  "discount_pct": 0,
+  "tax_rate": 5,
+  "shipping": 0.00,
+  "stated_subtotal": 7570.00,
+  "stated_discount": 0.00,
+  "stated_tax": 378.50,
+  "stated_total": 7948.50
+}

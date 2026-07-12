@@ -1,0 +1,6 @@
+2026-10-04  Q4 Kickoff. Decision: heavy-planning quarter; lock down 2027 architecture.
+2026-10-25  Architecture Review: multi-region. Decision: pursue active-active in 2027 H1.
+2026-11-08  Architecture Review: service mesh. Decision: defer mesh adoption indefinitely; PoC closed.
+2026-11-21  Capacity Planning. Decision: order H1 capacity ahead of multi-region rollout.
+2026-12-04  Security Architecture Review. Decision: zero-trust mTLS in scope for 2027 H1.
+2026-12-18  Q4 Retro. Decision: planning-heavy quarters need a delivery-counterweight; rebalance Q1.

@@ -1,0 +1,5 @@
+- Two enterprise customers reported being double-billed for events because of webhook retries; their billing reconciliation team flagged it as a SOC 2 audit risk.
+- The audit team across several customers asked for a CSV export of audit logs, estimating ~4 hours/month savings on compliance reporting.
+- Compliance customers explicitly requested configurable retention to satisfy SOC 2 / HIPAA requirements; one mentioned that the fixed retention was a blocker on their renewal.
+- Multiple customers asked for visibility into webhook delivery failures — currently they have to scrape their own server logs to know.
+- One admin mentioned that two members of their team had overwritten each other's role-permission edits without realizing it.

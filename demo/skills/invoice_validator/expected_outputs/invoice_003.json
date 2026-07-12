@@ -1,0 +1,12 @@
+{
+  "invoice_id": "INV-77310",
+  "vendor": "Meridian Cloud Services",
+  "computed": {
+    "subtotal": 1745.0,
+    "discount": 174.5,
+    "tax": 94.23,
+    "total": 1664.73
+  },
+  "discrepancies": [],
+  "valid": true
+}

@@ -1,0 +1,4 @@
+2027-01-12  Q1 Kickoff. Decision: SOC 2 Type II audit is the gate; everything else flexes around it.
+2027-02-05  Pre-Audit Walkthrough. Decision: confident on technical controls; gaps in access review automation.
+2027-03-13  Auditor Exit Meeting. Decision: clean SOC 2 expected; minor management-letter items.
+2027-03-26  Q1 Retro. Decision: build compliance evidence collection into normal workflow, not annual sprint.

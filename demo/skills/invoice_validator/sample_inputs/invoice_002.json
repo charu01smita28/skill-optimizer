@@ -1,0 +1,16 @@
+{
+  "invoice_id": "BC-9920-A",
+  "vendor": "Northwind Advisory Group",
+  "currency": "USD",
+  "line_items": [
+    { "description": "Discovery sprint — senior consultant", "quantity": 40, "unit_price": 175.00 },
+    { "description": "Travel reimbursement (itemized)", "quantity": 1, "unit_price": 1240.50 }
+  ],
+  "discount_pct": 0,
+  "tax_rate": 7.25,
+  "shipping": 0.00,
+  "stated_subtotal": 8240.50,
+  "stated_discount": 0.00,
+  "stated_tax": 597.44,
+  "stated_total": 8837.94
+}

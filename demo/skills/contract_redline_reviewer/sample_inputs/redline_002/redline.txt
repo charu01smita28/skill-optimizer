@@ -1,0 +1,9 @@
+MASTER SERVICES AGREEMENT
+
+A. TERM. The Agreement runs for a fixed term of two (2) years. Renewal requires mutual written agreement at least sixty (60) days before expiration.
+
+B. INDEMNIFICATION. Customer shall indemnify, defend, and hold harmless Provider, its affiliates, officers, directors, and employees from and against any and all claims, damages, losses, liabilities, costs, and expenses (including reasonable attorneys' fees), without limitation, arising out of (i) Customer's use of the Services, (ii) any third-party claim of infringement, (iii) any breach by Customer of this Agreement, and (iv) any other matter arising out of the relationship between the parties.
+
+C. INTELLECTUAL PROPERTY. Provider retains all rights to its pre-existing Services and platform IP. Customer retains all rights to its Customer Data and any custom configurations or integrations Customer creates using the Services.
+
+D. CONFIDENTIALITY. Each party shall protect the other's confidential information for three (3) years following disclosure, using the same degree of care it uses for its own confidential information.

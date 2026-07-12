@@ -1,0 +1,31 @@
+{
+  "invoice_id": "WS-2026-0412",
+  "vendor": "Calderon Workshop Partners",
+  "computed": {
+    "subtotal": 7750.0,
+    "discount": 0.0,
+    "tax": 387.5,
+    "total": 8137.5
+  },
+  "discrepancies": [
+    {
+      "field": "subtotal",
+      "stated": 7570.0,
+      "computed": 7750.0,
+      "delta": 180.0
+    },
+    {
+      "field": "tax",
+      "stated": 378.5,
+      "computed": 387.5,
+      "delta": 9.0
+    },
+    {
+      "field": "total",
+      "stated": 7948.5,
+      "computed": 8137.5,
+      "delta": 189.0
+    }
+  ],
+  "valid": false
+}

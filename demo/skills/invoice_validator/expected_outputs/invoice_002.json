@@ -1,0 +1,12 @@
+{
+  "invoice_id": "BC-9920-A",
+  "vendor": "Northwind Advisory Group",
+  "computed": {
+    "subtotal": 8240.5,
+    "discount": 0.0,
+    "tax": 597.44,
+    "total": 8837.94
+  },
+  "discrepancies": [],
+  "valid": true
+}

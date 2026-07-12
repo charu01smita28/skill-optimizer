@@ -1,0 +1,2 @@
+2026-10-08  Q4 Kickoff. Decision: focus everything on mobile v2 launch; defer all non-mobile work.
+2026-12-15  Q4 Retro. Decision: holiday code-freeze starts 2026-12-20; mobile launch successful.

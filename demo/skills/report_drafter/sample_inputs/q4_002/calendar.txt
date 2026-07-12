@@ -1,0 +1,4 @@
+2026-10-02  Billing Migration Sync. Decision: cut over by end of October.
+2026-10-21  Billing Migration Postmortem. Decision: ship reconciliation tooling before decommissioning legacy.
+2026-11-25  Legacy Decom Review. Decision: legacy billing service safe to retire.
+2026-12-12  Q4 Billing Retro. Decision: Stripe migration complete; rollover only Stripe webhook hardening to Q1.

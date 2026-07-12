@@ -1,0 +1,9 @@
+SUBSCRIPTION AGREEMENT
+
+S1. TERM AND RENEWAL. The initial term is one (1) year. The Agreement automatically renews for one-year terms unless either party provides at least sixty (60) days written notice of non-renewal.
+
+S2. INDEMNIFICATION. Each party shall indemnify the other for direct damages arising from the indemnifying party's material breach of this Agreement, capped at the fees paid by Customer during the prior twelve (12) months.
+
+S3. INTELLECTUAL PROPERTY. Each party retains its pre-existing IP. Provider grants Customer a non-exclusive license to use the Services during the term.
+
+S4. TERMINATION. Either party may terminate for material breach with thirty (30) days notice and a thirty (30) day cure period.

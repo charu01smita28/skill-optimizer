@@ -1,0 +1,2 @@
+2026-10-15  Platform Sync. Decision: lighter quarter; focus on cleanup and a database upgrade.
+2026-12-18  Q4 Retro. Decision: tighten Jira hygiene — too many commits without ticket refs this quarter.

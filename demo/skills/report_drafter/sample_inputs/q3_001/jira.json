@@ -1,0 +1,9 @@
+[
+  {"key": "PLAT-201", "title": "Migrate auth service to JWT", "theme": "platform", "closed_on": "2026-08-12"},
+  {"key": "PLAT-205", "title": "Retire legacy session store", "theme": "platform", "closed_on": "2026-08-22"},
+  {"key": "PLAT-211", "title": "Add session refresh endpoint", "theme": "platform", "closed_on": "2026-09-04"},
+  {"key": "REL-310", "title": "Quarterly reliability hardening", "theme": "reliability", "closed_on": "2026-08-30"},
+  {"key": "REL-315", "title": "Reduce p99 latency on /search by 40%", "theme": "reliability", "closed_on": "2026-09-15"},
+  {"key": "ONB-120", "title": "Self-serve onboarding flow", "theme": "onboarding", "closed_on": "2026-09-22"},
+  {"key": "ONB-125", "title": "Email verification revamp", "theme": "onboarding", "closed_on": "2026-09-28"}
+]

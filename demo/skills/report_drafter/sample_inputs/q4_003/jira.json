@@ -1,0 +1,8 @@
+[
+  {"key": "API-401", "title": "GraphQL gateway v1", "theme": "api", "closed_on": "2026-10-22"},
+  {"key": "API-405", "title": "Rate limiting via token bucket", "theme": "api", "closed_on": "2026-11-12"},
+  {"key": "OBS-201", "title": "Distributed tracing with OpenTelemetry", "theme": "observability", "closed_on": "2026-10-30"},
+  {"key": "OBS-208", "title": "p99 latency dashboards per service", "theme": "observability", "closed_on": "2026-11-25"},
+  {"key": "DX-302", "title": "Local dev container speedup", "theme": "developer-experience", "closed_on": "2026-11-04"},
+  {"key": "DX-310", "title": "PR preview environments", "theme": "developer-experience", "closed_on": "2026-12-08"}
+]

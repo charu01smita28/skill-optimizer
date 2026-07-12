@@ -1,0 +1,17 @@
+{
+  "invoice_id": "MICRO-2026-0931",
+  "vendor": "Tessera Payments",
+  "currency": "USD",
+  "line_items": [
+    { "description": "Per-unit processing fee", "quantity": 7, "unit_price": 3.33 },
+    { "description": "Micro-transaction surcharge", "quantity": 150, "unit_price": 0.07 },
+    { "description": "One-time setup", "quantity": 1, "unit_price": 15.99 }
+  ],
+  "discount_pct": 0,
+  "tax_rate": 8.875,
+  "shipping": 0.00,
+  "stated_subtotal": 49.80,
+  "stated_discount": 0.00,
+  "stated_tax": 4.42,
+  "stated_total": 54.22
+}

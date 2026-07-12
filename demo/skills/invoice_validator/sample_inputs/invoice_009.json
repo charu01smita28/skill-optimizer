@@ -1,0 +1,17 @@
+{
+  "invoice_id": "HW-2026-0274",
+  "vendor": "Ridgeline Hardware Co.",
+  "currency": "USD",
+  "line_items": [
+    { "description": "Edge gateway appliance", "quantity": 6, "unit_price": 340.00 },
+    { "description": "On-site installation labor", "quantity": 16, "unit_price": 95.00 },
+    { "description": "Extended warranty — 3 year", "quantity": 6, "unit_price": 80.00 }
+  ],
+  "discount_pct": 5,
+  "tax_rate": 8,
+  "shipping": 75.00,
+  "stated_subtotal": 4400.00,
+  "stated_discount": 220.00,
+  "stated_tax": 334.40,
+  "stated_total": 4589.40
+}

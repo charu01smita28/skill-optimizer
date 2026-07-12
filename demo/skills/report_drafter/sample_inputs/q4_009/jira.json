@@ -1,0 +1,14 @@
+[
+  {"key": "PLAT-601", "title": "Multi-tenant data partitioning", "theme": "platform", "closed_on": "2026-10-14"},
+  {"key": "PLAT-605", "title": "Region-aware request routing", "theme": "platform", "closed_on": "2026-11-02"},
+  {"key": "PLAT-610", "title": "Per-tenant rate limits", "theme": "platform", "closed_on": "2026-11-18"},
+  {"key": "REL-720", "title": "p99 latency reduction on /api/list", "theme": "reliability", "closed_on": "2026-10-22"},
+  {"key": "REL-728", "title": "Reduce error rate on /api/search", "theme": "reliability", "closed_on": "2026-11-12"},
+  {"key": "REL-735", "title": "Add idempotency to write APIs", "theme": "reliability", "closed_on": "2026-12-04"},
+  {"key": "FEAT-450", "title": "Saved views in reports", "theme": "feature", "closed_on": "2026-10-28"},
+  {"key": "FEAT-455", "title": "Scheduled report delivery", "theme": "feature", "closed_on": "2026-11-15"},
+  {"key": "FEAT-460", "title": "CSV export with filters preserved", "theme": "feature", "closed_on": "2026-12-08"},
+  {"key": "SEC-301", "title": "Audit logging for admin actions", "theme": "security", "closed_on": "2026-11-08"},
+  {"key": "SEC-305", "title": "API key rotation UI", "theme": "security", "closed_on": "2026-12-02"},
+  {"key": "DX-401", "title": "Faster CI test parallelism", "theme": "developer-experience", "closed_on": "2026-12-12"}
+]

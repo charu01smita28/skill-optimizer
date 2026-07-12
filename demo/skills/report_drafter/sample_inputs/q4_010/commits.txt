@@ -1,0 +1,1 @@
+a7b01ab xavi@co Bump log retention to 18 months (PLAT-701)

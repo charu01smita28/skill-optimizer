@@ -1,0 +1,19 @@
+{
+  "invoice_id": "INV-77310",
+  "vendor": "Meridian Cloud Services",
+  "currency": "USD",
+  "line_items": [
+    { "description": "User seats — Pro", "quantity": 25, "unit_price": 30.00 },
+    { "description": "User seats — Admin", "quantity": 3, "unit_price": 75.00 },
+    { "description": "Data export module", "quantity": 1, "unit_price": 400.00 },
+    { "description": "SSO add-on", "quantity": 1, "unit_price": 250.00 },
+    { "description": "Sandbox environment", "quantity": 2, "unit_price": 60.00 }
+  ],
+  "discount_pct": 10,
+  "tax_rate": 6,
+  "shipping": 0.00,
+  "stated_subtotal": 1745.00,
+  "stated_discount": 174.50,
+  "stated_tax": 94.23,
+  "stated_total": 1664.73
+}

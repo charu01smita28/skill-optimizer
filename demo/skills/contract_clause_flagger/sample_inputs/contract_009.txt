@@ -1,0 +1,16 @@
+STATEMENT OF WORK — Project Atlas (under MSA dated 2025-11-04)
+
+Section 1. Scope
+Provider shall design, implement, and deliver a customer-facing analytics dashboard ("the Deliverable") consisting of (i) a React-based web application, (ii) supporting REST APIs, and (iii) deployment runbooks. Functional requirements are detailed in Exhibit B-1.
+
+Section 2. Timeline and Milestones
+- M1 — Discovery and design specification: 2026-06-15
+- M2 — MVP build complete: 2026-08-30
+- M3 — UAT sign-off: 2026-10-01
+- M4 — Production launch: 2026-10-22
+
+Section 3. Acceptance
+Customer shall test each Deliverable within ten (10) business days of receipt and either (a) issue written acceptance, or (b) provide a written list of deficiencies referencing the requirements in Exhibit B-1. Failure to respond within the acceptance period shall constitute deemed acceptance.
+
+Section 5. Fees
+Total fixed fee: USD 285,000, billed at milestone completion in equal installments. Out-of-pocket travel expenses billed at cost with prior written approval.

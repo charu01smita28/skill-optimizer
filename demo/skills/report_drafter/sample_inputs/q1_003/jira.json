@@ -1,0 +1,6 @@
+[
+  {"key": "DEBT-201", "title": "Remove dead feature flags (50+)", "theme": "tech-debt", "closed_on": "2027-01-25"},
+  {"key": "DEBT-208", "title": "Consolidate three logging libraries into one", "theme": "tech-debt", "closed_on": "2027-02-12"},
+  {"key": "DEBT-215", "title": "Migrate off deprecated ORM v2", "theme": "tech-debt", "closed_on": "2027-03-08"},
+  {"key": "DEBT-222", "title": "Delete unused background workers (4)", "theme": "tech-debt", "closed_on": "2027-03-22"}
+]

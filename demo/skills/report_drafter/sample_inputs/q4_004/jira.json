@@ -1,0 +1,8 @@
+[
+  {"key": "INC-501", "title": "Severity-1: payments outage 6h", "theme": "incident", "closed_on": "2026-10-18"},
+  {"key": "INC-505", "title": "Severity-2: cascading 5xx from auth service", "theme": "incident", "closed_on": "2026-10-29"},
+  {"key": "INC-510", "title": "Severity-1: data ingest pipeline stalled 4h", "theme": "incident", "closed_on": "2026-11-12"},
+  {"key": "INC-515", "title": "Severity-2: search returning stale results", "theme": "incident", "closed_on": "2026-11-30"},
+  {"key": "INC-520", "title": "Severity-3: webhook delivery delays", "theme": "incident", "closed_on": "2026-12-15"},
+  {"key": "FEAT-330", "title": "Customer audit log export", "theme": "feature", "closed_on": "2026-12-02"}
+]

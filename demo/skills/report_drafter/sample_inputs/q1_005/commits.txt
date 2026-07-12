@@ -1,0 +1,8 @@
+f2a01ab quincy@co Backup encryption with CMEK (SEC-401)
+f2a02bc quincy@co CMEK rotation runbook (SEC-401)
+f2a03cd rin@co Audit log retention to 13 months (SEC-405)
+f2a04de rin@co Audit log immutability check (SEC-405)
+f2a05ef saskia@co Quarterly access review automation (SEC-410)
+f2a06fg saskia@co Auditor evidence packet generator (AUDIT-101)
+f2a07gh tariq@co SOC 2 fieldwork remediation pass 1 (AUDIT-105)
+f2a08hi tariq@co SOC 2 fieldwork remediation pass 2 (AUDIT-105)

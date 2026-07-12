@@ -1,0 +1,4 @@
+2026-10-07  Q4 Kickoff. Decision: parallel tracks — API, observability, developer experience.
+2026-10-31  Architecture Review: GraphQL gateway. Decision: ship v1, defer subscriptions to Q1.
+2026-11-26  Observability Demo. Decision: OTel rollout complete; legacy logging deprecated.
+2026-12-09  Q4 Retro. Decision: PR preview envs are now mandatory for any UI change.

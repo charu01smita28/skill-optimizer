@@ -1,0 +1,12 @@
+{
+  "loan_id": "STUD-2026-7733",
+  "lender": "Federal Direct Loan Svc.",
+  "currency": "USD",
+  "principal": 18500.0,
+  "annual_rate_pct": 5.5,
+  "term_months": 120,
+  "origination_fee": 0.0,
+  "stated_monthly_payment": 200.77,
+  "stated_total_interest": 5592.4,
+  "stated_total_paid": 24092.4
+}

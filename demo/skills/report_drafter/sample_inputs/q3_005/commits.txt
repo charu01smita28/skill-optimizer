@@ -1,0 +1,8 @@
+111aaaa nora@co Dark mode CSS variables (UI-200)
+222bbbb nora@co Settings redesign (UI-210)
+333cccc oscar@co Refactor button component
+444dddd oscar@co Cleanup unused styles
+555eeee oscar@co Move icons to SVG sprite
+666ffff penny@co Drop dependency on lodash
+777aaaa penny@co Bump react to 19
+888bbbb penny@co Migrate test runner

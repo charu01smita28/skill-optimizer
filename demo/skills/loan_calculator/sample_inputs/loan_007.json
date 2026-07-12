@@ -1,0 +1,12 @@
+{
+  "loan_id": "AUTO-2026-2200",
+  "lender": "Greenline Auto Group",
+  "currency": "USD",
+  "principal": 22000.0,
+  "annual_rate_pct": 7.99,
+  "term_months": 48,
+  "origination_fee": 0.0,
+  "stated_monthly_payment": 537.25,
+  "stated_total_interest": 3775.04,
+  "stated_total_paid": 25775.04
+}

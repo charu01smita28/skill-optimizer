@@ -1,0 +1,7 @@
+[
+  {"key": "AUDIT-101", "title": "SOC 2 Type II — control evidence collection", "theme": "compliance", "closed_on": "2027-02-04"},
+  {"key": "AUDIT-105", "title": "SOC 2 Type II — fieldwork complete", "theme": "compliance", "closed_on": "2027-03-12"},
+  {"key": "SEC-401", "title": "Encrypt all backups at rest with CMEK", "theme": "security", "closed_on": "2027-01-28"},
+  {"key": "SEC-405", "title": "Audit-log retention bumped to 13 months", "theme": "security", "closed_on": "2027-02-15"},
+  {"key": "SEC-410", "title": "Access reviews automation (quarterly)", "theme": "security", "closed_on": "2027-03-10"}
+]

@@ -1,0 +1,10 @@
+Subject: Suspicious login from unknown IP
+
+Hi security team,
+
+Our admin account just received a successful login notification from an IP address in a country none of our employees are in. The account in question is admin@stellarmed.example. We have already disabled the account and rotated the password, but we need help confirming whether anything was exfiltrated and reviewing audit logs from the last 24 hours.
+
+This is time-critical — please treat as a potential breach.
+
+Thanks,
+Daniel — CISO, Stellar Med

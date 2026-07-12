@@ -1,0 +1,10 @@
+Subject: Cannot log in to dashboard
+
+Hello,
+
+I have tried resetting my password three times and I still cannot log in. I keep getting "invalid credentials" even after I follow the reset link from the email. My email address is j.alvarez@globex.example.
+
+Could someone help me get back into my account? I have a presentation tomorrow and I need to pull a report.
+
+Thanks,
+Jorge

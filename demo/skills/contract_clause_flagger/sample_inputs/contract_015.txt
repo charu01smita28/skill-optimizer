@@ -1,0 +1,13 @@
+UK INTERNATIONAL DATA TRANSFER ADDENDUM — Mistral Cloud Services Ltd.
+
+Section 1. Incorporation
+This Addendum supplements the Data Processing Agreement between the parties dated 2025-03-18 and incorporates the UK Information Commissioner's Office International Data Transfer Addendum (Version A1.0, in force 21 March 2022) by reference.
+
+Section 3. Restricted Transfers
+The parties agree that transfers of UK Personal Data from Customer (acting as Controller) to Provider (acting as Processor) located outside the United Kingdom shall be subject to the IDTA. The Module 2 (Controller-to-Processor) terms apply.
+
+Section 4. Onward Transfers
+Provider may onward-transfer UK Personal Data to its sub-processors located in the United States, India, and Singapore, provided that each such sub-processor is bound by terms materially equivalent to the IDTA and that Provider remains liable for the acts and omissions of its sub-processors.
+
+Section 6. Government Access Requests
+In the event Provider receives a request from any government, regulatory, or law-enforcement authority for access to UK Personal Data, Provider shall (i) where lawfully permitted, notify Customer prior to disclosure, (ii) challenge any such request that appears unlawful or overly broad, and (iii) disclose only the minimum data necessary to comply.

@@ -1,0 +1,20 @@
+{
+  "invoice_id": "ENT-2026-0042",
+  "vendor": "Polaris Platform Group",
+  "currency": "USD",
+  "line_items": [
+    { "description": "Annual platform license — Enterprise", "quantity": 1, "unit_price": 48000.00 },
+    { "description": "Additional region deployment", "quantity": 3, "unit_price": 6000.00 },
+    { "description": "Premium SLA — 99.95%", "quantity": 1, "unit_price": 12000.00 },
+    { "description": "Quarterly business reviews", "quantity": 4, "unit_price": 2500.00 },
+    { "description": "Dedicated TAM — 0.5 FTE", "quantity": 1, "unit_price": 9000.00 },
+    { "description": "Security review & penetration test", "quantity": 1, "unit_price": 7500.00 }
+  ],
+  "discount_pct": 20,
+  "tax_rate": 7.5,
+  "shipping": 0.00,
+  "stated_subtotal": 104500.00,
+  "stated_discount": 20900.00,
+  "stated_tax": 6270.00,
+  "stated_total": 89870.00
+}

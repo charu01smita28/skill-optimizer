@@ -1,0 +1,4 @@
+[
+  {"key": "PLAT-501", "title": "Quarterly platform housekeeping", "theme": "platform", "closed_on": "2026-12-10"},
+  {"key": "PLAT-510", "title": "Database minor version upgrade", "theme": "platform", "closed_on": "2026-12-17"}
+]

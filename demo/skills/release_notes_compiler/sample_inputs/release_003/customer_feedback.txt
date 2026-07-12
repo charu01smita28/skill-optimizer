@@ -1,0 +1,6 @@
+- SSO has been the top feature request from enterprise security teams since Q1 — multiple deals were explicitly waiting on it before contract signature.
+- Three customers separately requested non-standard role hierarchies; current 4 presets were called out as "too restrictive for our org structure" in renewal calls.
+- SCIM provisioning was a hard requirement for two enterprise prospects whose IT teams provision exclusively from their identity provider.
+- Auth latency was a recurring complaint from high-traffic customers; one specifically mentioned "the redirect dance feels slow on first load."
+- A few customers noted that downloads of large export files felt slower than expected; signed-URL generation was the suspected culprit.
+- Several admins asked for clearer SSO setup documentation — current docs were called out as "fine if you already speak SAML" but a barrier for everyone else.

@@ -1,0 +1,5 @@
+2026-07-23  Postmortem: search outage. Decision: weekly index health check.
+2026-08-09  Postmortem: memory leak. Decision: add worker memory alarms.
+2026-08-20  Security Review: BUG-420. Decision: full header allowlist audit in Q4.
+2026-09-03  Webhook Reliability Sync. Decision: backoff schedule capped at 5min.
+2026-09-30  Q3 Retro. Decision: incident response cadence is healthy.

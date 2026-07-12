@@ -1,0 +1,13 @@
+SUBSCRIPTION AGREEMENT — Bluepine Analytics, Inc.
+
+Section 3. Term and Renewal
+The initial subscription term is twelve (12) months from the Effective Date. The Agreement will automatically renew for successive twelve-month terms unless either party provides written notice of non-renewal at least sixty (60) days prior to the end of the then-current term. Customer may downgrade tiers at renewal with thirty (30) days notice.
+
+Section 7. Limitation of Liability
+EXCEPT FOR LIABILITY ARISING OUT OF EITHER PARTY'S CONFIDENTIALITY OBLIGATIONS OR INDEMNIFICATION OBLIGATIONS, NEITHER PARTY'S AGGREGATE LIABILITY UNDER THIS AGREEMENT SHALL EXCEED THE FEES PAID BY CUSTOMER TO PROVIDER IN THE TWELVE (12) MONTHS PRECEDING THE EVENT GIVING RISE TO LIABILITY. IN NO EVENT SHALL EITHER PARTY BE LIABLE FOR INDIRECT, INCIDENTAL, OR CONSEQUENTIAL DAMAGES.
+
+Section 9. Indemnification
+Provider shall indemnify Customer against third-party claims that the Services, as provided by Provider and used in accordance with this Agreement, infringe any U.S. patent, copyright, or trademark. Provider's obligation under this Section is conditioned on prompt written notice and reasonable cooperation from Customer.
+
+Section 12. Data Processing
+Provider's processing of Customer Personal Data is governed by the Data Processing Addendum attached as Exhibit B, which incorporates the Standard Contractual Clauses for international transfers and references applicable GDPR obligations.

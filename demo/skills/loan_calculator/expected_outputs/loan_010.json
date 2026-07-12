@@ -1,0 +1,18 @@
+{
+  "loan_id": "AUTO-2026-9911",
+  "lender": "Ridgegate Motors Finance",
+  "computed": {
+    "monthly_payment": 549.03,
+    "total_interest": 4191.8,
+    "total_paid": 33391.8
+  },
+  "discrepancies": [
+    {
+      "field": "total_paid",
+      "stated": 32941.8,
+      "computed": 33391.8,
+      "delta": 450.0
+    }
+  ],
+  "valid": false
+}

@@ -1,0 +1,12 @@
+PROFESSIONAL SERVICES AGREEMENT — Crimson Build Co.
+
+Section 8. Termination
+
+8.1 Termination for Convenience. Provider may terminate this Agreement at any time upon thirty (30) days' written notice to Customer. Customer may terminate this Agreement only at the end of the then-current Service Order term, with sixty (60) days' written notice.
+
+8.2 Termination for Cause. Either party may terminate this Agreement for material breach if the breaching party fails to cure such breach within five (5) business days of written notice describing the breach in reasonable detail.
+
+8.3 Effect of Termination. Upon termination for any reason, Customer shall pay all fees accrued through the effective date of termination, plus a wind-down fee equal to twenty-five percent (25%) of the remaining contracted fees through the end of the then-current Service Order term. All licenses granted to Customer hereunder shall immediately terminate, and Customer shall return or destroy all Provider-supplied materials within ten (10) days.
+
+Section 11. Service Levels
+Provider shall use commercially reasonable efforts to meet the service levels described in the applicable Statement of Work. Service-level credits, if any, shall be Customer's sole and exclusive remedy for any failure of Provider to meet such service levels.

@@ -1,0 +1,2 @@
+2026-10-09  Docs Planning. Decision: erika owns docs end-to-end this quarter.
+2026-12-19  Docs Review. Decision: docs ship; bring in second writer in Q1.

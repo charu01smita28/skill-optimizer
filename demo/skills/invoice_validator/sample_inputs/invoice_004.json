@@ -1,0 +1,15 @@
+{
+  "invoice_id": "ENT-2026-Q2-0007",
+  "vendor": "Atlas Data Systems",
+  "currency": "USD",
+  "line_items": [
+    { "description": "Enterprise plan — annual", "quantity": 1, "unit_price": 24000.00 }
+  ],
+  "discount_pct": 0,
+  "tax_rate": 8,
+  "shipping": 0.00,
+  "stated_subtotal": 24000.00,
+  "stated_discount": 0.00,
+  "stated_tax": 1920.00,
+  "stated_total": 25920.00
+}

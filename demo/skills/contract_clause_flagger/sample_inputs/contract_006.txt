@@ -1,0 +1,13 @@
+SOFTWARE LICENSE AGREEMENT — Tundra Systems
+
+Section 5. License Grant
+Subject to the terms of this Agreement and Customer's payment of all applicable fees, Provider grants Customer a non-exclusive, non-transferable, non-sublicensable license to use the Software during the Term solely for Customer's internal business purposes. Customer shall not reverse engineer, decompile, or disassemble the Software except to the extent such activity is expressly permitted by applicable law.
+
+Section 9. Fees
+Fees are set forth in the applicable Order Form and are payable net thirty (30) days from invoice. Late payments accrue interest at one and one-half percent (1.5%) per month or the maximum permitted by law, whichever is lower.
+
+Section 14. General
+This Agreement constitutes the entire agreement between the parties with respect to the subject matter hereof. Any modifications must be in writing and signed by authorized representatives of both parties. The parties agree to negotiate in good faith should any provision be deemed unenforceable. Each party shall comply with all applicable laws and regulations in performing its obligations hereunder.
+
+Section 15. Notices
+All notices required or permitted under this Agreement shall be in writing and delivered to the addresses set forth in the applicable Order Form. Notices shall be deemed received upon confirmed delivery via courier or three (3) business days after deposit in first-class mail.

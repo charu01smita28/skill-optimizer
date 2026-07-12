@@ -1,0 +1,17 @@
+{
+  "invoice_id": "OS-2026-1185",
+  "vendor": "Deskline Office Supply",
+  "currency": "USD",
+  "line_items": [
+    { "description": "Bulk copy paper — case", "quantity": 20, "unit_price": 42.50 },
+    { "description": "Toner cartridges", "quantity": 8, "unit_price": 89.00 },
+    { "description": "Whiteboards — large", "quantity": 4, "unit_price": 165.00 }
+  ],
+  "discount_pct": 0,
+  "tax_rate": 9,
+  "shipping": 120.00,
+  "stated_subtotal": 2222.00,
+  "stated_discount": 0.00,
+  "stated_tax": 199.98,
+  "stated_total": 2421.98
+}

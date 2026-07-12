@@ -1,0 +1,3 @@
+2027-01-08  Q1 Kickoff. Decision: payments team finishes legacy wind-down, then merges into Growth pod.
+2027-02-10  Reorg Announcement. Decision: payments-legacy is closed out; remaining engineers move to Growth.
+2027-03-25  Q1 Retro. Decision: Growth pod owns conversion KPIs starting Q2.

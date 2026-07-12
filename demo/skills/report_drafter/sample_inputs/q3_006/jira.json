@@ -1,0 +1,8 @@
+[
+  {"key": "SVC-601", "title": "New billing webhook", "theme": "billing", "closed_on": "2026-07-29"},
+  {"key": "SVC-605", "title": "Stripe migration phase 1", "theme": "billing", "closed_on": "2026-08-19"},
+  {"key": "SVC-612", "title": "Stripe migration phase 2", "theme": "billing", "closed_on": "2026-09-08"},
+  {"key": "REL-712", "title": "Reduce error rate on /checkout", "theme": "reliability", "closed_on": "2026-08-26"},
+  {"key": "REL-718", "title": "Add idempotency to /checkout", "theme": "reliability", "closed_on": "2026-09-19"},
+  {"key": "DOC-901", "title": "Public API reference revamp", "theme": "docs", "closed_on": "2026-09-26"}
+]

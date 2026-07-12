@@ -1,0 +1,12 @@
+{
+  "loan_id": "STUD-2026-8800",
+  "lender": "Capitol Education Loan",
+  "currency": "USD",
+  "principal": 42000.0,
+  "annual_rate_pct": 6.8,
+  "term_months": 180,
+  "origination_fee": 95.0,
+  "stated_monthly_payment": 373.38,
+  "stated_total_interest": 25109.4,
+  "stated_total_paid": 67204.4
+}

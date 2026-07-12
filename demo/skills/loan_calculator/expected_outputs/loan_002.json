@@ -1,0 +1,11 @@
+{
+  "loan_id": "MORT-2026-0042",
+  "lender": "Cascade Mortgage Co.",
+  "computed": {
+    "monthly_payment": 2865.14,
+    "total_interest": 611450.4,
+    "total_paid": 1032445.4
+  },
+  "discrepancies": [],
+  "valid": true
+}

@@ -1,0 +1,6 @@
+FEAT-401: SSO via SAML 2.0 — Okta and Azure AD certified configurations
+FEAT-402: Workspace-level custom role definitions, replacing the 4 fixed presets
+FEAT-410: SCIM 2.0 user provisioning endpoint
+PERF-501: Cache session lookups to reduce auth round-trips by ~80%
+PERF-505: Move signed-URL generation out of the request hot path
+DOCS-101: SSO setup guide with screenshots for Okta and Azure AD admins

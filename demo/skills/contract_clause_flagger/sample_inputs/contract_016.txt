@@ -1,0 +1,13 @@
+JOINT VENTURE AGREEMENT — Quartz Robotics & Helium Dynamics
+
+Section 4. Joint Intellectual Property
+All intellectual property created jointly by the parties in the course of the Joint Venture, including patents, copyrights, trade secrets, software, and know-how ("Joint IP"), shall be owned jointly by the parties as tenants in common, with each party holding an undivided fifty percent (50%) interest. Each party may exploit Joint IP independently, including by licensing to third parties, without accounting to or requiring consent from the other party, except that neither party may assign or transfer its interest in Joint IP without the other's written consent.
+
+Section 6. Profit and Loss Allocation
+Net profits and losses of the Joint Venture shall be shared equally between the parties. Distributions shall be made quarterly, no later than thirty (30) days after the close of each calendar quarter.
+
+Section 9. Term and Dissolution
+The Joint Venture shall continue for an initial term of five (5) years and may be extended by mutual written agreement. Either party may dissolve the Joint Venture upon one hundred eighty (180) days' written notice to the other party. Upon dissolution, the parties shall agree in good faith on the disposition of Joint IP, with rights of first refusal extended to each party.
+
+Section 11. Confidentiality
+Each party shall protect Joint Venture Confidential Information for a period of five (5) years following dissolution, after which Confidential Information may be used by either party in its independent business activities.

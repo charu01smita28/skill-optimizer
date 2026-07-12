@@ -1,0 +1,12 @@
+{
+  "loan_id": "AUTO-2026-1001",
+  "lender": "Westridge Credit Union",
+  "currency": "USD",
+  "principal": 25000.0,
+  "annual_rate_pct": 6.5,
+  "term_months": 60,
+  "origination_fee": 0.0,
+  "stated_monthly_payment": 489.15,
+  "stated_total_interest": 4349.0,
+  "stated_total_paid": 29349.0
+}

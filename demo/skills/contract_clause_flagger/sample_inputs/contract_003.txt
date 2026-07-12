@@ -1,0 +1,13 @@
+DATA PROCESSING ADDENDUM — Greenfield Insights LLC
+
+Section 2. Sub-processors
+Processor may engage third-party sub-processors to assist in providing the Services. Processor shall provide Customer with a current list of sub-processors upon written request. Customer is deemed to have consented to all current and future sub-processors unless Customer objects in writing within fifteen (15) business days of notification of the new sub-processor.
+
+Section 4. International Transfers
+Customer acknowledges that Personal Data may be transferred to and processed in jurisdictions outside the European Economic Area, the United Kingdom, and Switzerland, including but not limited to the United States, India, and the Philippines. The parties rely on the Standard Contractual Clauses for such transfers; however, Processor makes no representation as to the equivalence of data protection in receiving jurisdictions.
+
+Section 6. Security Measures
+Processor shall implement and maintain commercially reasonable technical and organizational security measures designed to protect Personal Data against accidental or unlawful destruction, loss, alteration, unauthorized disclosure, or access. Specific measures are described in Exhibit A and may be updated by Processor from time to time, provided that updates do not materially decrease the overall level of security.
+
+Section 8. Audit Rights
+Customer may audit Processor's compliance with this DPA no more than once per calendar year, upon thirty (30) days prior written notice, during normal business hours, and at Customer's sole expense. Audit reports prepared by independent third-party auditors (e.g., SOC 2 Type II) shall satisfy Processor's audit obligations under this DPA.

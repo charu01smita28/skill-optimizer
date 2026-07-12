@@ -1,0 +1,12 @@
+{
+  "loan_id": "MORT-2026-0042",
+  "lender": "Cascade Mortgage Co.",
+  "currency": "USD",
+  "principal": 420000.0,
+  "annual_rate_pct": 7.25,
+  "term_months": 360,
+  "origination_fee": 995.0,
+  "stated_monthly_payment": 2865.14,
+  "stated_total_interest": 611450.4,
+  "stated_total_paid": 1032445.4
+}

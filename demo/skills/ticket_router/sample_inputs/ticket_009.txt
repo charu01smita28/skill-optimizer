@@ -1,0 +1,10 @@
+Subject: New team members starting Monday
+
+Hi,
+
+We have four new analysts starting on Monday and they all need access to the platform. I have their work emails and the role they should be assigned (all "viewer" except one "editor"). What is the fastest way to get them set up — should I add them through the admin panel myself, or do you provision them on your side?
+
+Also, is there a bulk-invite option I am missing?
+
+Thanks,
+Lisa — IT Manager, Brightwave Studios

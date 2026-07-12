@@ -1,0 +1,13 @@
+SOURCE CODE ESCROW AGREEMENT — Triadic Software Holdings
+
+Section 3. Deposit
+Provider shall deposit a complete copy of the Source Code, build instructions, and dependency manifests for the Licensed Software with the Escrow Agent within thirty (30) days of the Effective Date and shall update the deposit upon each major release (no less than annually).
+
+Section 5. Release Conditions
+The Escrow Agent shall release the deposited materials to Customer upon written notice and reasonable evidence of any of the following: (a) Provider files for bankruptcy or has an involuntary bankruptcy proceeding filed against it that is not dismissed within sixty (60) days; (b) Provider ceases substantially all business operations; (c) Provider materially breaches its support and maintenance obligations under the License Agreement and fails to cure within forty-five (45) days of written notice.
+
+Section 7. Post-Release License
+Upon release, Customer is granted a perpetual, worldwide, royalty-free, non-exclusive license to use, modify, and maintain the Source Code solely for Customer's internal use of the Licensed Software. Customer may not distribute, sublicense, or commercially exploit the Source Code.
+
+Section 10. Indemnity
+Provider shall indemnify Customer against third-party claims that the Source Code, as deposited, infringes any patent, copyright, or trade secret. This indemnity survives release of materials from escrow.

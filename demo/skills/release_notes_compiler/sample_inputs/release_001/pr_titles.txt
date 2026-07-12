@@ -1,0 +1,9 @@
+PERF-411: Reduce dashboard p95 latency from 2.4s to 800ms via DB call batching
+PERF-415: Add Redis caching layer to org-settings API
+PERF-422: Eliminate N+1 query in workspace member listing endpoint
+ONBOARD-201: Replace 5-step signup with email-first 2-step flow
+ONBOARD-205: Add inline tooltips on first-run dashboard for top 4 metrics
+ONBOARD-208: Defer non-essential profile fields to post-signup
+DOCS-88: Update API quickstart to reflect new auth model
+INTERNAL-902: Refactor auth middleware (no user-facing change)
+INTERNAL-915: Migrate billing job runner to new queue (no user-facing change)

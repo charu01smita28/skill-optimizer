@@ -1,0 +1,13 @@
+EARLY ACCESS / BETA PROGRAM AGREEMENT — Lattice AI Labs
+
+Section 2. Beta Status; No Warranty
+Customer acknowledges that the Beta Service is a pre-release offering and is provided on an "AS IS" and "AS AVAILABLE" basis. Provider makes no warranties of any kind, express or implied, including but not limited to merchantability, fitness for a particular purpose, non-infringement, accuracy, or uninterrupted operation. Customer assumes all risk arising from use of the Beta Service.
+
+Section 4. Feedback
+Any feedback, suggestions, ideas, bug reports, feature requests, or other input that Customer provides regarding the Beta Service ("Feedback") shall be the sole and exclusive property of Provider. Customer hereby irrevocably assigns to Provider all right, title, and interest in and to such Feedback, including all intellectual property rights, without any obligation of compensation, attribution, or confidentiality.
+
+Section 6. Limitation of Liability
+To the maximum extent permitted by law, Provider's total aggregate liability arising out of or related to this Agreement shall not exceed one hundred U.S. dollars (USD 100). In no event shall Provider be liable for any indirect, incidental, consequential, special, exemplary, or punitive damages of any kind.
+
+Section 8. Termination
+Provider may suspend or terminate the Beta Service or Customer's access to it at any time, with or without cause, with or without notice, and without any liability whatsoever to Customer.

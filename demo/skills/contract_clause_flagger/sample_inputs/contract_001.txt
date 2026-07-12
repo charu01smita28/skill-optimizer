@@ -1,0 +1,13 @@
+MASTER SERVICES AGREEMENT — Acme Cloud Platform, Inc.
+
+Section 4. Term and Renewal
+This Agreement shall commence on the Effective Date and continue for an initial term of one (1) year. Thereafter, this Agreement shall automatically renew for successive one-year terms unless either party provides written notice of non-renewal at least fifteen (15) days prior to the end of the then-current term.
+
+Section 9. Indemnification
+Customer shall indemnify, defend, and hold harmless Provider, its affiliates, officers, directors, employees, and agents from and against any and all claims, damages, losses, liabilities, costs, and expenses (including reasonable attorneys' fees), without limitation, arising out of or related to (a) Customer's use of the Services, (b) any third-party claim of infringement, (c) any breach by Customer of this Agreement, and (d) any other matter arising out of the relationship between the parties.
+
+Section 11. Intellectual Property
+All right, title, and interest in and to any feedback, suggestions, ideas, or other information provided by Customer to Provider, and any improvements, modifications, or derivative works thereof, shall be owned exclusively by Provider. Customer hereby irrevocably assigns to Provider all such rights without further compensation.
+
+Section 18. General
+This Agreement is governed by the laws of the State of Delaware. Disputes shall be resolved by binding arbitration in San Francisco, California.

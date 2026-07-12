@@ -1,0 +1,12 @@
+{
+  "loan_id": "AUTO-2026-3344",
+  "lender": "Pinecone Auto Finance",
+  "currency": "USD",
+  "principal": 35500.0,
+  "annual_rate_pct": 4.99,
+  "term_months": 72,
+  "origination_fee": 299.0,
+  "stated_monthly_payment": 571.56,
+  "stated_total_interest": 5652.32,
+  "stated_total_paid": 41451.32
+}

@@ -1,0 +1,115 @@
+ACME CORPORATION INFORMATION SECURITY POLICY
+Version 4.2 — effective 2025-Q3
+
+PART I — SCOPE AND PURPOSE
+
+This policy establishes the information security requirements applicable to all
+ACME Corporation employees, contractors, and third-party processors who handle
+ACME data or operate ACME systems. The policy aligns with the company's overall
+risk management framework and supports our regulatory obligations under
+applicable data protection law.
+
+The policy is reviewed annually by the Chief Information Security Officer
+(CISO) and material updates are approved by the Risk Committee.
+
+PART II — DATA CLASSIFICATION
+
+All ACME data is classified into one of four sensitivity tiers, applied at the
+point of data creation or ingestion:
+
+  - Public: data approved for external publication (e.g., marketing material).
+  - Internal: data intended for ACME personnel only; non-disclosure to third parties.
+  - Confidential: data with material business or competitive impact if disclosed.
+  - Restricted: data subject to regulatory or contractual confidentiality
+    obligations, including personal data covered by data protection law.
+
+Each data store, application, and integration must be tagged with the highest
+classification of data it processes. Re-classification requires CISO approval.
+
+PART III — ACCESS CONTROL
+
+Access to ACME systems follows role-based access control (RBAC) and the
+principle of least privilege. Each role's access scope is documented in the
+Role Catalog maintained by IT Security.
+
+Privileged access (administrative or root-level) is granted only via the
+Privileged Access Management (PAM) system. PAM sessions are time-bounded and
+recorded for audit. All privileged accounts are subject to multi-factor
+authentication.
+
+Access reviews are conducted quarterly for production systems and semi-annually
+for non-production systems. Stale or excessive access flagged during review
+must be revoked or justified within 14 calendar days.
+
+PART IV — ENCRYPTION
+
+Data classified as Confidential or Restricted must be encrypted at rest using
+AES-256 (or stronger) and in transit using TLS 1.2 (or higher). Encryption keys
+are managed by the central Key Management Service (KMS) operated by the
+Platform Security team.
+
+Customer-held encryption keys (BYOK) are supported for Restricted-tier
+processing where required by contract; key rotation cadence follows the
+contractual obligation or 12 months, whichever is shorter.
+
+Backup data inherits the encryption posture of the source data store. Decrypted
+backup material may not be retained outside controlled restoration windows.
+
+PART V — INCIDENT RESPONSE
+
+Suspected security incidents must be reported to the Security Operations
+Center (SOC) within 1 hour of detection. The SOC triages and assigns a
+severity level (S1 through S4); S1 and S2 incidents trigger the Incident
+Response Team (IRT) escalation tree, which includes notification to the CISO
+and General Counsel.
+
+External notification timelines follow regulatory requirements: data subjects
+and supervisory authorities are notified within 72 hours of confirmed personal
+data breach involving Restricted-tier data, or sooner if contractually
+required.
+
+Every S1 / S2 incident receives a post-incident review (PIR) within 10 business
+days. PIR outputs feed the next quarter's policy and control updates.
+
+PART VI — AUDIT LOGGING
+
+All production systems generate audit logs covering authentication,
+authorization, data access, configuration changes, and privileged actions.
+Logs are forwarded to the central SIEM in near-real-time.
+
+Log retention is set to 365 days for general audit events and 7 years for
+events covering Restricted-tier data access. Log integrity is protected via
+write-once storage and cryptographic hashing of log batches.
+
+The Internal Audit team has read-only access to the SIEM for compliance
+monitoring; access is logged and reviewed by the CISO.
+
+PART VII — DATA RETENTION AND DISPOSAL
+
+Each data class has a default retention period defined in the Data Retention
+Schedule:
+
+  - Public: indefinite, subject to business need.
+  - Internal: 5 years from last business use.
+  - Confidential: 7 years, or contractual obligation, whichever is longer.
+  - Restricted: per regulatory schedule; minimum 6 years.
+
+Data approaching end-of-retention is queued for secure disposal. Disposal of
+Restricted-tier data must be witnessed and certified; a Certificate of
+Destruction is retained for 10 years.
+
+PART VIII — THIRD-PARTY RISK MANAGEMENT
+
+Vendors and sub-processors handling ACME data undergo a tiered risk assessment
+before contracting and annually thereafter. The assessment covers security
+posture, financial stability, regulatory standing, and prior incident history.
+
+High-risk vendors (those processing Restricted-tier data or providing critical
+infrastructure) are subject to enhanced due diligence including SOC 2 Type II
+review, on-site assessment where feasible, and contractual right-to-audit.
+
+Sub-processor changes by approved vendors must be notified to ACME at least 30
+days in advance; ACME reserves the right to object on documented security
+grounds.
+
+END OF POLICY

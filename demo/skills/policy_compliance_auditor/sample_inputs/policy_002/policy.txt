@@ -1,0 +1,85 @@
+BRIGHTLEAF LTD INFORMATION SECURITY POLICY
+Version 1.0 — effective 2025-08-01
+
+SECTION A — INTRODUCTION
+
+This policy outlines basic information security expectations for all
+Brightleaf staff and contractors. The policy is owned by the IT Manager and
+reviewed when significant changes are made to the company's systems or
+business operations.
+
+The policy applies to all systems owned or operated by Brightleaf and any
+data those systems process.
+
+SECTION B — DATA HANDLING
+
+Brightleaf handles two broad categories of data: business data (internal
+operational records, customer correspondence, project deliverables) and
+personal data (employee records, customer contact details). Both should be
+handled with care.
+
+Staff are expected to use good judgment when sharing data. Data shared
+externally should be done so via approved channels (work email, the company
+file-share). Personal data should not be sent via personal email or messaging
+applications.
+
+The IT team maintains a backup of all production systems on a weekly schedule.
+Backups are stored on an off-site cloud bucket.
+
+SECTION C — ACCESS AND PASSWORDS
+
+Each user is provisioned an account at hire and the account is disabled at
+termination by the IT team. Account creation requires approval by the user's
+direct manager.
+
+Passwords must be at least 12 characters long and include a mix of uppercase,
+lowercase, numbers, and symbols. Passwords are changed every 90 days.
+
+Multi-factor authentication is enabled for the email system and the company
+VPN. Other systems are being assessed for MFA rollout.
+
+SECTION D — DEVICE SECURITY
+
+All company-issued laptops have full-disk encryption enabled by default.
+Personal devices (BYOD) used for work email require a screen lock and
+device-level encryption where the device supports it.
+
+Laptops are managed by an MDM solution which enforces encryption, OS update
+schedules, and the corporate firewall configuration.
+
+Lost or stolen devices must be reported to IT immediately so the device can be
+remotely wiped if necessary.
+
+SECTION E — NETWORK AND PERIMETER
+
+The corporate network sits behind a managed firewall with default-deny rules
+for inbound traffic. Outbound traffic is filtered through a web proxy that
+blocks known-malicious domains and high-risk content categories.
+
+Remote workers connect to internal resources via the company VPN; split
+tunneling is disabled. Wi-Fi networks in Brightleaf offices are segregated
+between corporate (employee-only) and guest (visitor) SSIDs.
+
+SECTION F — STAFF RESPONSIBILITIES
+
+All staff complete an annual security awareness training module covering
+phishing recognition, password hygiene, and reporting suspicious activity.
+New starters complete the same training within their first 30 days.
+
+Staff observing a security concern should escalate to their manager or
+directly to the IT Manager. The IT Manager is responsible for reviewing
+reports and determining whether further action is required.
+
+Sharing of login credentials between staff is prohibited under any
+circumstances.
+
+SECTION G — VENDOR USAGE
+
+Brightleaf uses cloud-based services from a small number of established
+vendors (e.g., productivity suite, CRM, payroll). Vendors are selected based
+on functional fit and pricing.
+
+The IT Manager maintains a register of vendors processing personal or
+business-sensitive data and reviews the register annually for any changes.
+
+END OF POLICY

@@ -1,0 +1,16 @@
+{
+  "invoice_id": "AUD-2026-118",
+  "vendor": "Halvorsen & Reyes LLP",
+  "currency": "USD",
+  "line_items": [
+    { "description": "Audit engagement — Phase 1", "quantity": 1, "unit_price": 12500.00 },
+    { "description": "Audit engagement — Phase 2", "quantity": 1, "unit_price": 9800.00 }
+  ],
+  "discount_pct": 8,
+  "tax_rate": 8.5,
+  "shipping": 0.00,
+  "stated_subtotal": 22300.00,
+  "stated_discount": 1784.00,
+  "stated_tax": 1700.00,
+  "stated_total": 22216.00
+}

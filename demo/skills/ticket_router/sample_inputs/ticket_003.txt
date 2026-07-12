@@ -1,0 +1,16 @@
+Subject: Webhook delivery failing — 500 errors since 14:00 UTC
+
+Hi,
+
+Our integration with your webhooks endpoint started returning HTTP 500 around 14:00 UTC today. Our retry queue is filling up. Stack trace from one failed delivery attached below — looks like a NullPointerException in a serializer on your side.
+
+```
+java.lang.NullPointerException: Cannot invoke "String.length()" because "this.payload" is null
+  at com.acme.webhook.PayloadSerializer.serialize(PayloadSerializer.java:142)
+  at com.acme.webhook.DeliveryWorker.deliver(DeliveryWorker.java:88)
+  ...
+```
+
+We are dropping events. Please escalate.
+
+— Priya, Platform Engineering, Acme Corp

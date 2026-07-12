@@ -1,0 +1,17 @@
+{
+  "invoice_id": "INV-2026-0148",
+  "vendor": "Brightpath Software Ltd.",
+  "currency": "USD",
+  "line_items": [
+    { "description": "Annual license — Standard tier", "quantity": 2, "unit_price": 1200.00 },
+    { "description": "Onboarding & setup", "quantity": 1, "unit_price": 500.00 },
+    { "description": "Priority support add-on (monthly)", "quantity": 12, "unit_price": 45.00 }
+  ],
+  "discount_pct": 10,
+  "tax_rate": 8.5,
+  "shipping": 25.00,
+  "stated_subtotal": 3440.00,
+  "stated_discount": 344.00,
+  "stated_tax": 263.16,
+  "stated_total": 3384.16
+}

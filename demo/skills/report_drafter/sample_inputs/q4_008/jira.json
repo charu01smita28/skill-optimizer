@@ -1,0 +1,4 @@
+[
+  {"key": "ARCH-201", "title": "Multi-region active-active proposal accepted", "theme": "architecture", "closed_on": "2026-12-10"},
+  {"key": "ARCH-205", "title": "Service mesh evaluation completed", "theme": "architecture", "closed_on": "2026-12-15"}
+]

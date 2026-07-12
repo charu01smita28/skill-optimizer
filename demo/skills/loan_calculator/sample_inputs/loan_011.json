@@ -1,0 +1,12 @@
+{
+  "loan_id": "MORT-2026-7000",
+  "lender": "Crestwave Mortgage",
+  "currency": "USD",
+  "principal": 525000.0,
+  "annual_rate_pct": 7.125,
+  "term_months": 360,
+  "origination_fee": 2495.0,
+  "stated_monthly_payment": 3453.52,
+  "stated_total_interest": 748327.2,
+  "stated_total_paid": 1275822.2
+}

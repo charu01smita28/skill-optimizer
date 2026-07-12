@@ -1,0 +1,31 @@
+{
+  "invoice_id": "INV-2026-5530",
+  "vendor": "Quarry Platform Inc.",
+  "computed": {
+    "subtotal": 3400.0,
+    "discount": 408.0,
+    "tax": 187.0,
+    "total": 3179.0
+  },
+  "discrepancies": [
+    {
+      "field": "discount",
+      "stated": 480.0,
+      "computed": 408.0,
+      "delta": -72.0
+    },
+    {
+      "field": "tax",
+      "stated": 182.5,
+      "computed": 187.0,
+      "delta": 4.5
+    },
+    {
+      "field": "total",
+      "stated": 3102.5,
+      "computed": 3179.0,
+      "delta": 76.5
+    }
+  ],
+  "valid": false
+}

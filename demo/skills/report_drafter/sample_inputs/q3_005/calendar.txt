@@ -1,0 +1,4 @@
+2026-07-12  Q3 Kickoff. Decision: focus on UI modernization.
+2026-08-15  Frontend Sync. Decision: dark mode ships GA.
+2026-09-08  Frontend Sync. Decision: tech debt sprint planned for early Q4.
+2026-09-30  Q3 Retro. Decision: consider tracking tech-debt commits in Jira going forward.

@@ -1,0 +1,6 @@
+[
+  {"key": "FEAT-401", "title": "Workflow automation builder", "theme": "feature", "closed_on": "2026-10-22"},
+  {"key": "FEAT-405", "title": "Bulk import wizard", "theme": "feature", "closed_on": "2026-11-04"},
+  {"key": "FEAT-410", "title": "Custom dashboard widgets", "theme": "feature", "closed_on": "2026-11-22"},
+  {"key": "FEAT-415", "title": "Inline commenting on reports", "theme": "feature", "closed_on": "2026-12-12"}
+]
