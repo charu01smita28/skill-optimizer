@@ -1,0 +1,15 @@
+{
+  "redline_id": "redline_001",
+  "changes": [
+    {
+      "category": "auto_renewal",
+      "summary": "Notice period for non-renewal reduced from 30 days to 15 days",
+      "original_text": "The Agreement automatically renews for successive one-year terms unless either party provides written notice of non-renewal at least thirty (30) days prior to the end of the then-current term.",
+      "redline_text": "The Agreement automatically renews for successive one-year terms unless either party provides written notice of non-renewal at least fifteen (15) days prior to the end of the then-current term.",
+      "risk_to_customer": "increased",
+      "rationale": "Shorter opt-out window materially shortens the customer's opportunity to terminate the agreement at renewal, increasing the risk of unintended auto-renewal."
+    }
+  ],
+  "overall_redline_acceptable": false,
+  "confidence": 1.0
+}

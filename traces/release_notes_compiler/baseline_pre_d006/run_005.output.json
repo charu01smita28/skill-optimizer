@@ -1,0 +1,39 @@
+{
+  "release_id": "release_002",
+  "headline": "This release hardens webhook reliability, adds CSV exports and configurable data retention for compliance workflows, and prevents silent data loss from concurrent admin role edits.",
+  "themes": [
+    {
+      "theme_name": "webhook-reliability",
+      "user_facing_summary": "Webhook delivery is now fully idempotent — retries no longer cause duplicate events, and delivery failures surface directly in the activity log with retry status and last error. Documentation for the idempotency-key contract has been published for webhook subscribers.",
+      "supporting_changes": [
+        "Fix duplicate webhook delivery on retry by respecting idempotency key",
+        "Surface webhook delivery failures in the activity log UI",
+        "Document the idempotency-key contract for webhook subscribers"
+      ]
+    },
+    {
+      "theme_name": "compliance-and-audit",
+      "user_facing_summary": "Billing reports and audit logs can now be exported as CSV, and workspaces can configure custom data retention policies (defaulting to 90 days) to meet SOC 2 and HIPAA requirements. Audit log exports now correctly reflect workspace timezone settings instead of silently using UTC.",
+      "supporting_changes": [
+        "Add CSV export to billing reports",
+        "Allow custom retention policies per workspace (default 90 days)",
+        "Correct timezone handling in audit log CSV export"
+      ]
+    },
+    {
+      "theme_name": "admin-safety",
+      "user_facing_summary": "Concurrent role edits by two admins on the same role are now serialized correctly, preventing silent overwrites where the second save would discard the first without warning.",
+      "supporting_changes": [
+        "Resolve race condition when two admins edit the same role concurrently"
+      ]
+    }
+  ],
+  "notable_changes": [
+    "Fix duplicate webhook delivery on retry by respecting idempotency key — eliminates double-billed events on transient failures flagged as a SOC 2 audit risk",
+    "Surface webhook delivery failures in the activity log UI with retry status and last error — no more scraping server logs to diagnose failures",
+    "Add CSV export to billing reports from the workspace settings page",
+    "Allow custom retention policies per workspace (default 90 days) to satisfy SOC 2 / HIPAA requirements — fixed retention was a renewal blocker for at least one compliance customer",
+    "Correct timezone handling in audit log CSV export — exports previously used UTC regardless of workspace timezone"
+  ],
+  "customer_voice": "Enterprise compliance and billing teams asked for safer webhooks (eliminating duplicate event delivery), CSV exports for audit and billing data, and configurable retention to meet SOC 2 and HIPAA requirements — one customer flagged fixed retention as a renewal blocker."
+}

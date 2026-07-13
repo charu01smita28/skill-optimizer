@@ -1,0 +1,19 @@
+{
+  "invoice_id": "OS-2026-1185",
+  "vendor": "Deskline Office Supply",
+  "computed": {
+    "subtotal": 2222.00,
+    "discount": 0.00,
+    "tax": 199.98,
+    "total": 2541.98
+  },
+  "discrepancies": [
+    {
+      "field": "total",
+      "stated": 2421.98,
+      "computed": 2541.98,
+      "delta": 120.00
+    }
+  ],
+  "valid": false
+}

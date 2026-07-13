@@ -1,0 +1,39 @@
+{
+  "release_id": "release_001",
+  "headline": "Release 001 delivers a dramatically faster dashboard, a streamlined two-step signup, and clearer API onboarding docs.",
+  "themes": [
+    {
+      "theme_name": "performance",
+      "user_facing_summary": "The dashboard now loads up to 67% faster, and workspace member listings are significantly snappier for teams of 50 or more. Org settings also benefit from a new caching layer that reduces load times under typical workspace traffic.",
+      "supporting_changes": [
+        "PERF-411: Reduce dashboard p95 latency from 2.4s to 800ms via DB call batching",
+        "PERF-415: Add Redis caching layer to org-settings API",
+        "PERF-422: Eliminate N+1 query in workspace member listing endpoint"
+      ]
+    },
+    {
+      "theme_name": "onboarding",
+      "user_facing_summary": "New users now complete signup in two steps instead of five, with optional profile details deferred until after signup. The first-run dashboard surfaces four contextual tips on your most-used metrics right when you need them.",
+      "supporting_changes": [
+        "ONBOARD-201: Replace 5-step signup with email-first 2-step flow",
+        "ONBOARD-205: Add inline tooltips on first-run dashboard for top 4 metrics",
+        "ONBOARD-208: Defer non-essential profile fields to post-signup"
+      ]
+    },
+    {
+      "theme_name": "docs",
+      "user_facing_summary": "The API quickstart now reflects the latest auth model, removing a common friction point for developers integrating for the first time.",
+      "supporting_changes": [
+        "DOCS-88: Update API quickstart to reflect new auth model"
+      ]
+    }
+  ],
+  "notable_changes": [
+    "Dashboard 95th-percentile load time cut from 2.4s to 800ms (67% faster)",
+    "Workspace member listing is ~30% faster for teams with 50 or more members",
+    "Signup flow reduced from five steps to two — new users reach the product faster",
+    "First-run dashboard now shows contextual tooltips on the four metrics new users care about most",
+    "API quickstart updated to match the current auth model"
+  ],
+  "customer_voice": "Customers flagged a sluggish dashboard as the top pain point in the Q2 NPS survey and new-user signups were being abandoned mid-flow; this release directly addresses both while also delivering the inline first-run guidance and clearer auth docs that customers and the CS team had been asking for."
+}

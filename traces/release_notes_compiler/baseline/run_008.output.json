@@ -1,0 +1,39 @@
+{
+  "release_id": "release_003",
+  "headline": "Enterprise-grade SSO, custom access control, and performance improvements for large-scale teams.",
+  "themes": [
+    {
+      "theme_name": "Enterprise SSO & Access Control",
+      "user_facing_summary": "SSO is now available with certified configurations for Okta and Azure AD, plus SCIM 2.0 user provisioning to auto-sync users from your identity provider. Workspace admins can now define custom role hierarchies instead of choosing from fixed presets, giving your organization the flexibility to match your own permission model.",
+      "supporting_changes": [
+        "FEAT-401: SSO via SAML 2.0 — Okta and Azure AD certified configurations",
+        "FEAT-402: Workspace-level custom role definitions, replacing the 4 fixed presets",
+        "FEAT-410: SCIM 2.0 user provisioning endpoint"
+      ]
+    },
+    {
+      "theme_name": "Performance at Scale",
+      "user_facing_summary": "Authentication is now ~80% faster thanks to server-side session caching, and large file downloads are snappier with optimized signed-URL generation. These improvements are especially noticeable for teams making frequent API calls or regularly exporting large datasets.",
+      "supporting_changes": [
+        "PERF-501: Cache session lookups to reduce auth round-trips by ~80%",
+        "PERF-505: Move signed-URL generation out of the request hot path"
+      ]
+    },
+    {
+      "theme_name": "SSO Setup Documentation",
+      "user_facing_summary": "New step-by-step SSO setup guide with annotated screenshots for Okta and Azure AD administrators, making identity provider configuration accessible even if you're new to SAML.",
+      "supporting_changes": [
+        "DOCS-101: SSO setup guide with screenshots for Okta and Azure AD admins"
+      ]
+    }
+  ],
+  "notable_changes": [
+    "SAML 2.0 SSO with Okta and Azure AD — the #1 enterprise feature request since Q1, now live",
+    "Custom workspace role definitions — replace the fixed four presets with your own permission sets",
+    "SCIM 2.0 user provisioning — automatically sync users from your identity provider",
+    "Session authentication 80% faster — visibly reduces login redirect latency",
+    "Faster large file downloads — optimized signed-URL generation cuts download wait time"
+  ],
+  "customer_voice": "Enterprise teams have requested SSO and flexible role management since Q1; this release fulfills those needs. Customers at scale also reported friction around auth latency on first login and slow large-file downloads—both are now significantly improved."
+}
+

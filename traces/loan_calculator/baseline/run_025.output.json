@@ -1,0 +1,11 @@
+{
+  "loan_id": "AUTO-2026-3344",
+  "lender": "Pinecone Auto Finance",
+  "computed": {
+    "monthly_payment": 571.56,
+    "total_interest": 5652.32,
+    "total_paid": 41451.32
+  },
+  "discrepancies": [],
+  "valid": true
+}

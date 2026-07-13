@@ -1,0 +1,12 @@
+{
+  "invoice_id": "MICRO-2026-0931",
+  "vendor": "Tessera Payments",
+  "computed": {
+    "subtotal": 49.80,
+    "discount": 0.00,
+    "tax": 4.42,
+    "total": 54.22
+  },
+  "discrepancies": [],
+  "valid": true
+}

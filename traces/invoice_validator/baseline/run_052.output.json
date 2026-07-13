@@ -1,0 +1,12 @@
+{
+  "invoice_id": "ENT-2026-0042",
+  "vendor": "Polaris Platform Group",
+  "computed": {
+    "subtotal": 104500.00,
+    "discount": 20900.00,
+    "tax": 6270.00,
+    "total": 89870.00
+  },
+  "discrepancies": [],
+  "valid": true
+}

@@ -1,0 +1,15 @@
+{
+  "redline_id": "redline_005",
+  "changes": [
+    {
+      "category": "liability_cap",
+      "summary": "Liability cap structure changed from symmetric mutual caps to asymmetric caps with Customer's liability uncapped and Provider's cap reduced to 6 months.",
+      "original_text": "Each party's aggregate liability under this Agreement is capped at the fees paid by Customer in the prior twelve (12) months.",
+      "redline_text": "Customer's aggregate liability under this Agreement is uncapped. Provider's aggregate liability is capped at the fees paid by Customer in the prior six (6) months.",
+      "risk_to_customer": "increased",
+      "rationale": "Customer now has unlimited liability exposure while Provider's liability protection is strengthened with a lower cap amount."
+    }
+  ],
+  "overall_redline_acceptable": false,
+  "confidence": 0.95
+}

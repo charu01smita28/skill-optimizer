@@ -1,0 +1,30 @@
+{
+  "loan_id": "AUTO-2026-2200",
+  "lender": "Greenline Auto Group",
+  "computed": {
+    "monthly_payment": 536.15,
+    "total_interest": 3735.20,
+    "total_paid": 25735.20
+  },
+  "discrepancies": [
+    {
+      "field": "monthly_payment",
+      "stated": 537.25,
+      "computed": 536.15,
+      "delta": -1.10
+    },
+    {
+      "field": "total_interest",
+      "stated": 3775.04,
+      "computed": 3735.20,
+      "delta": -39.84
+    },
+    {
+      "field": "total_paid",
+      "stated": 25775.04,
+      "computed": 25735.20,
+      "delta": -39.84
+    }
+  ],
+  "valid": false
+}

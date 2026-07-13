@@ -1,0 +1,18 @@
+{
+  "loan_id": "STUD-2026-8800",
+  "lender": "Capitol Education Loan",
+  "computed": {
+    "monthly_payment": 372.83,
+    "total_interest": 25109.4,
+    "total_paid": 67204.4
+  },
+  "discrepancies": [
+    {
+      "field": "monthly_payment",
+      "stated": 373.38,
+      "computed": 372.83,
+      "delta": -0.55
+    }
+  ],
+  "valid": false
+}

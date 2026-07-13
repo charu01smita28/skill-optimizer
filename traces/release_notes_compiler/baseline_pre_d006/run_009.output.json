@@ -1,0 +1,38 @@
+{
+  "release_id": "release_003",
+  "headline": "Enterprise SSO, custom roles, and SCIM provisioning arrive alongside meaningful performance improvements to auth and download speeds.",
+  "themes": [
+    {
+      "theme_name": "enterprise-sso",
+      "user_facing_summary": "SAML 2.0 single sign-on is now available with certified configurations for Okta and Azure AD, including SCIM 2.0 for automated user provisioning directly from your identity provider. A new admin setup guide with annotated screenshots makes deployment accessible beyond SAML experts.",
+      "supporting_changes": [
+        "FEAT-401: SSO via SAML 2.0 — Okta and Azure AD certified configurations",
+        "FEAT-410: SCIM 2.0 user provisioning endpoint",
+        "DOCS-101: SSO setup guide with screenshots for Okta and Azure AD admins"
+      ]
+    },
+    {
+      "theme_name": "custom-roles",
+      "user_facing_summary": "Workspace admins can now define their own permission sets instead of choosing from four fixed presets, giving organizations the flexibility to match their actual structure. Existing workspaces are unaffected unless an admin explicitly opts in.",
+      "supporting_changes": [
+        "FEAT-402: Workspace-level custom role definitions, replacing the 4 fixed presets"
+      ]
+    },
+    {
+      "theme_name": "performance",
+      "user_facing_summary": "Session lookups are now cached, cutting auth round-trip load by roughly 80%, and signed-URL generation has been moved off the request hot path — reducing p99 download latency by ~120ms.",
+      "supporting_changes": [
+        "PERF-501: Cache session lookups to reduce auth round-trips by ~80%",
+        "PERF-505: Move signed-URL generation out of the request hot path"
+      ]
+    }
+  ],
+  "notable_changes": [
+    "SAML 2.0 SSO with certified Okta and Azure AD configurations — configurable from the workspace SSO settings page",
+    "SCIM 2.0 provisioning endpoint supporting create, update, and deactivate (group-based role mapping is on the roadmap)",
+    "Custom workspace role definitions replace the four fixed presets — opt-in for existing workspaces, no automatic migration",
+    "Session cache cuts auth lookup load by ~80%, invalidated automatically on session revoke or password change",
+    "New SSO setup guide with annotated screenshots aimed at admins who don't already speak SAML"
+  ],
+  "customer_voice": "Enterprise security and IT teams had been waiting on SSO and SCIM provisioning as hard requirements before signing contracts, while high-traffic customers flagged auth latency and slow large-file downloads as recurring friction — both pain points are directly addressed in this release."
+}

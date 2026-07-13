@@ -1,0 +1,30 @@
+{
+  "loan_id": "MORT-2026-9001",
+  "lender": "Harborline Lending",
+  "computed": {
+    "monthly_payment": 2111.48,
+    "total_interest": 231755.2,
+    "total_paid": 508050.2
+  },
+  "discrepancies": [
+    {
+      "field": "monthly_payment",
+      "stated": 2111.49,
+      "computed": 2111.48,
+      "delta": -0.01
+    },
+    {
+      "field": "total_interest",
+      "stated": 231757.6,
+      "computed": 231755.2,
+      "delta": -2.4
+    },
+    {
+      "field": "total_paid",
+      "stated": 508052.6,
+      "computed": 508050.2,
+      "delta": -2.4
+    }
+  ],
+  "valid": false
+}

@@ -1,0 +1,30 @@
+{
+  "loan_id": "PERS-2026-4422",
+  "lender": "Bayside Personal Finance",
+  "computed": {
+    "monthly_payment": 702.53,
+    "total_interest": 1860.72,
+    "total_paid": 17060.72
+  },
+  "discrepancies": [
+    {
+      "field": "monthly_payment",
+      "stated": 702.6,
+      "computed": 702.53,
+      "delta": -0.07
+    },
+    {
+      "field": "total_interest",
+      "stated": 1862.4,
+      "computed": 1860.72,
+      "delta": -1.68
+    },
+    {
+      "field": "total_paid",
+      "stated": 17119.4,
+      "computed": 17060.72,
+      "delta": -58.68
+    }
+  ],
+  "valid": false
+}

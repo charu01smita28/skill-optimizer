@@ -1,0 +1,23 @@
+{
+  "redline_id": "redline_004",
+  "changes": [
+    {
+      "category": "auto_renewal",
+      "summary": "Notice period for non-renewal extended from 60 to 90 days, and made one-sided (Customer only)",
+      "original_text": "The Agreement automatically renews for one-year terms unless either party provides at least sixty (60) days written notice of non-renewal.",
+      "redline_text": "The Agreement automatically renews for one-year terms unless Customer provides at least ninety (90) days written notice of non-renewal.",
+      "risk_to_customer": "increased",
+      "rationale": "Extended notice period and one-sided opt-out requirement materially burden the Customer with longer commitment windows and asymmetric obligations."
+    },
+    {
+      "category": "indemnity",
+      "summary": "Indemnification changed from mutual to one-sided, scope broadened, and cap removed entirely",
+      "original_text": "Each party shall indemnify the other for direct damages arising from the indemnifying party's material breach of this Agreement, capped at the fees paid by Customer during the prior twelve (12) months.",
+      "redline_text": "Customer shall indemnify, defend, and hold harmless Provider from any and all claims arising out of Customer's use of the Services or any breach by Customer of this Agreement, without cap or limitation.",
+      "risk_to_customer": "increased",
+      "rationale": "One-sided indemnity eliminates Provider's obligations, broadens claim scope beyond material breach to any use-related claims, expands obligations to include defense costs, and removes the 12-month fee cap, creating uncapped liability for the Customer."
+    }
+  ],
+  "overall_redline_acceptable": false,
+  "confidence": 0.98
+}

@@ -1,0 +1,139 @@
+{
+  "runs": [
+    {
+      "run": 1,
+      "input": "redline_001",
+      "status": "ok",
+      "elapsed_s": 39.59,
+      "trace": "run_001.jsonl",
+      "output": "run_001.output.json",
+      "overall_redline_acceptable": false
+    },
+    {
+      "run": 2,
+      "input": "redline_001",
+      "status": "ok",
+      "elapsed_s": 30.67,
+      "trace": "run_002.jsonl",
+      "output": "run_002.output.json",
+      "overall_redline_acceptable": false
+    },
+    {
+      "run": 3,
+      "input": "redline_001",
+      "status": "ok",
+      "elapsed_s": 35.54,
+      "trace": "run_003.jsonl",
+      "output": "run_003.output.json",
+      "overall_redline_acceptable": false
+    },
+    {
+      "run": 4,
+      "input": "redline_002",
+      "status": "ok",
+      "elapsed_s": 47.42,
+      "trace": "run_004.jsonl",
+      "output": "run_004.output.json",
+      "overall_redline_acceptable": false
+    },
+    {
+      "run": 5,
+      "input": "redline_002",
+      "status": "ok",
+      "elapsed_s": 31.88,
+      "trace": "run_005.jsonl",
+      "output": "run_005.output.json",
+      "overall_redline_acceptable": false
+    },
+    {
+      "run": 6,
+      "input": "redline_002",
+      "status": "ok",
+      "elapsed_s": 28.81,
+      "trace": "run_006.jsonl",
+      "output": "run_006.output.json",
+      "overall_redline_acceptable": false
+    },
+    {
+      "run": 7,
+      "input": "redline_003",
+      "status": "ok",
+      "elapsed_s": 32.94,
+      "trace": "run_007.jsonl",
+      "output": "run_007.output.json",
+      "overall_redline_acceptable": true
+    },
+    {
+      "run": 8,
+      "input": "redline_003",
+      "status": "ok",
+      "elapsed_s": 31.69,
+      "trace": "run_008.jsonl",
+      "output": "run_008.output.json",
+      "overall_redline_acceptable": true
+    },
+    {
+      "run": 9,
+      "input": "redline_003",
+      "status": "ok",
+      "elapsed_s": 32.07,
+      "trace": "run_009.jsonl",
+      "output": "run_009.output.json",
+      "overall_redline_acceptable": true
+    },
+    {
+      "run": 10,
+      "input": "redline_004",
+      "status": "ok",
+      "elapsed_s": 41.09,
+      "trace": "run_010.jsonl",
+      "output": "run_010.output.json",
+      "overall_redline_acceptable": false
+    },
+    {
+      "run": 11,
+      "input": "redline_004",
+      "status": "ok",
+      "elapsed_s": 34.84,
+      "trace": "run_011.jsonl",
+      "output": "run_011.output.json",
+      "overall_redline_acceptable": false
+    },
+    {
+      "run": 12,
+      "input": "redline_004",
+      "status": "ok",
+      "elapsed_s": 33.19,
+      "trace": "run_012.jsonl",
+      "output": "run_012.output.json",
+      "overall_redline_acceptable": false
+    },
+    {
+      "run": 13,
+      "input": "redline_005",
+      "status": "ok",
+      "elapsed_s": 30.98,
+      "trace": "run_013.jsonl",
+      "output": "run_013.output.json",
+      "overall_redline_acceptable": false
+    },
+    {
+      "run": 14,
+      "input": "redline_005",
+      "status": "ok",
+      "elapsed_s": 41.34,
+      "trace": "run_014.jsonl",
+      "output": "run_014.output.json",
+      "overall_redline_acceptable": false
+    },
+    {
+      "run": 15,
+      "input": "redline_005",
+      "status": "ok",
+      "elapsed_s": 42.84,
+      "trace": "run_015.jsonl",
+      "output": "run_015.output.json",
+      "overall_redline_acceptable": false
+    }
+  ]
+}

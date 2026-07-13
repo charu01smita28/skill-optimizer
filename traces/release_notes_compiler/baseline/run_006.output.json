@@ -1,0 +1,39 @@
+{
+  "release_id": "release_002",
+  "headline": "Compliance-first release: webhook reliability, audit controls, and team safety for enterprises.",
+  "themes": [
+    {
+      "theme_name": "webhook reliability",
+      "user_facing_summary": "Webhook delivery is now fully idempotent and failures are fully visible. Double-delivered events from retries are eliminated, and webhook delivery status now appears in your activity log with retry information and error details.",
+      "supporting_changes": [
+        "Fix duplicate webhook delivery on retry by respecting idempotency key",
+        "Surface webhook delivery failures in the activity log UI",
+        "Document the idempotency-key contract for webhook subscribers"
+      ]
+    },
+    {
+      "theme_name": "compliance & audit",
+      "user_facing_summary": "Audit and billing reports are now exportable as CSV, and retention policies are configurable per workspace to meet SOC 2 and HIPAA requirements. Exports now respect your workspace timezone for accurate compliance records.",
+      "supporting_changes": [
+        "Add CSV export to billing reports",
+        "Allow custom retention policies per workspace (default 90 days)",
+        "Correct timezone handling in audit log CSV export"
+      ]
+    },
+    {
+      "theme_name": "team collaboration safety",
+      "user_facing_summary": "Concurrent role edits by multiple admins now serialize correctly, preventing one admin's changes from being silently overwritten by another.",
+      "supporting_changes": [
+        "Resolve race condition when two admins edit the same role concurrently"
+      ]
+    }
+  ],
+  "notable_changes": [
+    "Webhook delivery is now fully idempotent — eliminates double-billing risk from retries",
+    "Audit and billing reports exportable as CSV with timezone-aware timestamps",
+    "Configurable retention policies (90-day default) for SOC 2/HIPAA compliance",
+    "Webhook delivery failures with retry status now visible in activity log",
+    "Role edit race condition fixed — no more silent overwrites by concurrent admins"
+  ],
+  "customer_voice": "Enterprise teams flagged webhook retries as causing reconciliation headaches and audit risk, reported that compliance reporting consumed hours monthly, and experienced silent role-edit collisions on busy teams. This release resolves all three pain points with idempotency fixes, audit controls, and team-safe collaboration."
+}

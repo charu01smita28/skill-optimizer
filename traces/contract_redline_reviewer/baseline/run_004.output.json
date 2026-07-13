@@ -1,0 +1,15 @@
+{
+  "redline_id": "redline_002",
+  "changes": [
+    {
+      "category": "indemnity",
+      "summary": "Indemnification clause changed from mutual and capped to one-sided, unlimited, and broadly scoped.",
+      "original_text": "Each party shall indemnify the other for third-party claims of (i) gross negligence or willful misconduct, and (ii) infringement of the indemnifying party's IP, capped at the fees paid in the prior twelve (12) months.",
+      "redline_text": "Customer shall indemnify, defend, and hold harmless Provider, its affiliates, officers, directors, and employees from and against any and all claims, damages, losses, liabilities, costs, and expenses (including reasonable attorneys' fees), without limitation, arising out of (i) Customer's use of the Services, (ii) any third-party claim of infringement, (iii) any breach by Customer of this Agreement, and (iv) any other matter arising out of the relationship between the parties.",
+      "risk_to_customer": "increased",
+      "rationale": "Redline eliminates mutual obligation, removes liability cap, broadens indemnification scope from narrow third-party claims to any claims including breaches and residual matters, and expands indemnitee list to include affiliated entities, materially worsening customer's risk exposure."
+    }
+  ],
+  "overall_redline_acceptable": false,
+  "confidence": 0.95
+}

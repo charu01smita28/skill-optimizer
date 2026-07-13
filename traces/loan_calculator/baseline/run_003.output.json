@@ -1,0 +1,30 @@
+{
+  "loan_id": "AUTO-2026-1001",
+  "lender": "Westridge Credit Union",
+  "computed": {
+    "monthly_payment": 493.02,
+    "total_interest": 4581.2,
+    "total_paid": 29581.2
+  },
+  "discrepancies": [
+    {
+      "field": "monthly_payment",
+      "stated": 489.15,
+      "computed": 493.02,
+      "delta": 3.87
+    },
+    {
+      "field": "total_interest",
+      "stated": 4349.0,
+      "computed": 4581.2,
+      "delta": 232.2
+    },
+    {
+      "field": "total_paid",
+      "stated": 29349.0,
+      "computed": 29581.2,
+      "delta": 232.2
+    }
+  ],
+  "valid": false
+}

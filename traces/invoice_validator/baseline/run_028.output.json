@@ -1,0 +1,25 @@
+{
+  "invoice_id": "AUD-2026-118",
+  "vendor": "Halvorsen & Reyes LLP",
+  "computed": {
+    "subtotal": 22300.00,
+    "discount": 1784.00,
+    "tax": 1743.86,
+    "total": 22259.86
+  },
+  "discrepancies": [
+    {
+      "field": "tax",
+      "stated": 1700.00,
+      "computed": 1743.86,
+      "delta": 43.86
+    },
+    {
+      "field": "total",
+      "stated": 22216.00,
+      "computed": 22259.86,
+      "delta": 43.86
+    }
+  ],
+  "valid": false
+}

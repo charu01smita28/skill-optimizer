@@ -1,0 +1,39 @@
+{
+  "release_id": "release_001",
+  "headline": "Faster dashboard, streamlined onboarding, and clearer API docs—directly addressing your top feedback from Q2.",
+  "themes": [
+    {
+      "theme_name": "performance",
+      "user_facing_summary": "We've tackled the #1 complaint from your Q2 NPS feedback: dashboard sluggishness. Dashboard load times are now 67% faster thanks to optimized database queries and Redis caching, while workspace member listing got a 30% speed boost for teams with 50+ members.",
+      "supporting_changes": [
+        "Reduce dashboard p95 latency from 2.4s to 800ms via DB call batching",
+        "Add Redis caching layer to org-settings API",
+        "Eliminate N+1 query in workspace member listing endpoint"
+      ]
+    },
+    {
+      "theme_name": "onboarding",
+      "user_facing_summary": "Signup is now faster and clearer. We've cut the flow from 5 steps to 2, added guided tooltips on your first dashboard to highlight the metrics that matter most, and deferred optional details so you can get started immediately.",
+      "supporting_changes": [
+        "Replace 5-step signup with email-first 2-step flow",
+        "Add inline tooltips on first-run dashboard for top 4 metrics",
+        "Defer non-essential profile fields to post-signup"
+      ]
+    },
+    {
+      "theme_name": "developer experience",
+      "user_facing_summary": "API integration is now smoother with clearer authentication documentation upfront, removing friction that was slowing down partner onboarding.",
+      "supporting_changes": [
+        "Update API quickstart to reflect new auth model"
+      ]
+    }
+  ],
+  "notable_changes": [
+    "Dashboard p95 latency cut from 2.4s to 800ms—directly addressing your Q2 #1 NPS complaint",
+    "Signup abandonment at step 3 eliminated by reducing flow from 5 steps to 2",
+    "Workspace member listing ~30% faster for teams with 50+ members",
+    "First-run dashboard now includes inline guidance for your most-used metrics",
+    "API authentication documentation completely rewritten for clarity"
+  ],
+  "customer_voice": "Your Q2 feedback showed three critical pain points: dashboard performance issues cited in our NPS survey, new users abandoning signup at step three, and friction around API authentication during integration. This release directly addresses all three."
+}

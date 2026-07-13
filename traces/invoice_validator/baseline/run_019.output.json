@@ -1,0 +1,12 @@
+{
+  "invoice_id": "ENT-2026-Q2-0007",
+  "vendor": "Atlas Data Systems",
+  "computed": {
+    "subtotal": 24000.00,
+    "discount": 0.00,
+    "tax": 1920.00,
+    "total": 25920.00
+  },
+  "discrepancies": [],
+  "valid": true
+}

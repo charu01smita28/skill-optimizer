@@ -1,0 +1,30 @@
+{
+  "loan_id": "STUD-2026-7733",
+  "lender": "Federal Direct Loan Svc.",
+  "computed": {
+    "monthly_payment": 200.95,
+    "total_interest": 5614.0,
+    "total_paid": 24114.0
+  },
+  "discrepancies": [
+    {
+      "field": "monthly_payment",
+      "stated": 200.77,
+      "computed": 200.95,
+      "delta": 0.18
+    },
+    {
+      "field": "total_interest",
+      "stated": 5592.4,
+      "computed": 5614.0,
+      "delta": 21.6
+    },
+    {
+      "field": "total_paid",
+      "stated": 24092.4,
+      "computed": 24114.0,
+      "delta": 21.6
+    }
+  ],
+  "valid": false
+}

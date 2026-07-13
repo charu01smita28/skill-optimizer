@@ -1,0 +1,31 @@
+{
+  "release_id": "release_001",
+  "headline": "This release delivers major dashboard and API speed improvements, a streamlined two-step signup, and in-context guidance that helps new users find value faster.",
+  "themes": [
+    {
+      "theme_name": "performance",
+      "user_facing_summary": "Dashboards now load up to 67% faster, and workspace member listings are significantly snappier — especially for teams with 50 or more members. Smarter caching and query optimizations reduce server load across the board.",
+      "supporting_changes": [
+        "Reduce dashboard p95 latency from 2.4s to 800ms via DB call batching",
+        "Add Redis caching layer to org-settings API",
+        "Eliminate N+1 query in workspace member listing endpoint"
+      ]
+    },
+    {
+      "theme_name": "onboarding",
+      "user_facing_summary": "Getting started is now faster: signup drops from five steps to two, and optional profile details can be filled in after you're up and running. A new set of in-context tooltips on the first-run dashboard surfaces the four metrics new users care about most.",
+      "supporting_changes": [
+        "Replace 5-step signup with email-first 2-step flow",
+        "Add inline tooltips on first-run dashboard for top 4 metrics",
+        "Defer non-essential profile fields to post-signup"
+      ]
+    }
+  ],
+  "notable_changes": [
+    "Dashboard 95th-percentile load time cut from 2.4s to ~800ms — directly addressing the top complaint from the Q2 NPS survey.",
+    "Workspace member listing is ~30% faster for teams with 50–200 members after removing an N+1 query.",
+    "Signup abandonment reduced by eliminating three of the five prior signup steps.",
+    "API quickstart documentation updated to reflect the new auth model, reducing integration friction for developers getting started."
+  ],
+  "customer_voice": "Customers flagged a sluggish dashboard as the top Q2 NPS complaint, reported signup abandonment mid-flow, and asked for better in-app guidance for new users — this release addresses all three directly, alongside documentation improvements that lower the barrier for API integration."
+}

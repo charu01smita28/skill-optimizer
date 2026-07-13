@@ -1,0 +1,540 @@
+{
+  "runs": [
+    {
+      "run": 1,
+      "input": "invoice_001.json",
+      "status": "ok",
+      "elapsed_s": 27.4,
+      "trace": "run_001.jsonl",
+      "output": null,
+      "valid": "<missing>"
+    },
+    {
+      "run": 2,
+      "input": "invoice_001.json",
+      "status": "ok",
+      "elapsed_s": 62.54,
+      "trace": "run_002.jsonl",
+      "output": null,
+      "valid": "<missing>"
+    },
+    {
+      "run": 3,
+      "input": "invoice_001.json",
+      "status": "ok",
+      "elapsed_s": 54.58,
+      "trace": "run_003.jsonl",
+      "output": "run_003.output.json",
+      "valid": true
+    },
+    {
+      "run": 4,
+      "input": "invoice_001.json",
+      "status": "ok",
+      "elapsed_s": 57.58,
+      "trace": "run_004.jsonl",
+      "output": "run_004.output.json",
+      "valid": true
+    },
+    {
+      "run": 5,
+      "input": "invoice_001.json",
+      "status": "ok",
+      "elapsed_s": 24.86,
+      "trace": "run_005.jsonl",
+      "output": "run_005.output.json",
+      "valid": true
+    },
+    {
+      "run": 6,
+      "input": "invoice_002.json",
+      "status": "ok",
+      "elapsed_s": 48.61,
+      "trace": "run_006.jsonl",
+      "output": "run_006.output.json",
+      "valid": true
+    },
+    {
+      "run": 7,
+      "input": "invoice_002.json",
+      "status": "ok",
+      "elapsed_s": 40.66,
+      "trace": "run_007.jsonl",
+      "output": "run_007.output.json",
+      "valid": true
+    },
+    {
+      "run": 8,
+      "input": "invoice_002.json",
+      "status": "ok",
+      "elapsed_s": 70.66,
+      "trace": "run_008.jsonl",
+      "output": "run_008.output.json",
+      "valid": true
+    },
+    {
+      "run": 9,
+      "input": "invoice_002.json",
+      "status": "ok",
+      "elapsed_s": 33.66,
+      "trace": "run_009.jsonl",
+      "output": "run_009.output.json",
+      "valid": true
+    },
+    {
+      "run": 10,
+      "input": "invoice_002.json",
+      "status": "ok",
+      "elapsed_s": 57.84,
+      "trace": "run_010.jsonl",
+      "output": "run_010.output.json",
+      "valid": true
+    },
+    {
+      "run": 11,
+      "input": "invoice_003.json",
+      "status": "ok",
+      "elapsed_s": 30.78,
+      "trace": "run_011.jsonl",
+      "output": "run_011.output.json",
+      "valid": true
+    },
+    {
+      "run": 12,
+      "input": "invoice_003.json",
+      "status": "ok",
+      "elapsed_s": 49.13,
+      "trace": "run_012.jsonl",
+      "output": "run_012.output.json",
+      "valid": true
+    },
+    {
+      "run": 13,
+      "input": "invoice_003.json",
+      "status": "ok",
+      "elapsed_s": 29.78,
+      "trace": "run_013.jsonl",
+      "output": "run_013.output.json",
+      "valid": true
+    },
+    {
+      "run": 14,
+      "input": "invoice_003.json",
+      "status": "ok",
+      "elapsed_s": 58.81,
+      "trace": "run_014.jsonl",
+      "output": "run_014.output.json",
+      "valid": true
+    },
+    {
+      "run": 15,
+      "input": "invoice_003.json",
+      "status": "ok",
+      "elapsed_s": 40.3,
+      "trace": "run_015.jsonl",
+      "output": "run_015.output.json",
+      "valid": true
+    },
+    {
+      "run": 16,
+      "input": "invoice_004.json",
+      "status": "ok",
+      "elapsed_s": 23.59,
+      "trace": "run_016.jsonl",
+      "output": "run_016.output.json",
+      "valid": true
+    },
+    {
+      "run": 17,
+      "input": "invoice_004.json",
+      "status": "ok",
+      "elapsed_s": 19.61,
+      "trace": "run_017.jsonl",
+      "output": "run_017.output.json",
+      "valid": true
+    },
+    {
+      "run": 18,
+      "input": "invoice_004.json",
+      "status": "ok",
+      "elapsed_s": 46.35,
+      "trace": "run_018.jsonl",
+      "output": "run_018.output.json",
+      "valid": true
+    },
+    {
+      "run": 19,
+      "input": "invoice_004.json",
+      "status": "ok",
+      "elapsed_s": 29.97,
+      "trace": "run_019.jsonl",
+      "output": "run_019.output.json",
+      "valid": true
+    },
+    {
+      "run": 20,
+      "input": "invoice_004.json",
+      "status": "ok",
+      "elapsed_s": 40.45,
+      "trace": "run_020.jsonl",
+      "output": "run_020.output.json",
+      "valid": true
+    },
+    {
+      "run": 21,
+      "input": "invoice_005.json",
+      "status": "ok",
+      "elapsed_s": 25.89,
+      "trace": "run_021.jsonl",
+      "output": "run_021.output.json",
+      "valid": false
+    },
+    {
+      "run": 22,
+      "input": "invoice_005.json",
+      "status": "ok",
+      "elapsed_s": 40.15,
+      "trace": "run_022.jsonl",
+      "output": "run_022.output.json",
+      "valid": false
+    },
+    {
+      "run": 23,
+      "input": "invoice_005.json",
+      "status": "ok",
+      "elapsed_s": 18.37,
+      "trace": "run_023.jsonl",
+      "output": "run_023.output.json",
+      "valid": false
+    },
+    {
+      "run": 24,
+      "input": "invoice_005.json",
+      "status": "ok",
+      "elapsed_s": 61.86,
+      "trace": "run_024.jsonl",
+      "output": "run_024.output.json",
+      "valid": false
+    },
+    {
+      "run": 25,
+      "input": "invoice_005.json",
+      "status": "ok",
+      "elapsed_s": 71.58,
+      "trace": "run_025.jsonl",
+      "output": "run_025.output.json",
+      "valid": false
+    },
+    {
+      "run": 26,
+      "input": "invoice_006.json",
+      "status": "ok",
+      "elapsed_s": 20.37,
+      "trace": "run_026.jsonl",
+      "output": "run_026.output.json",
+      "valid": false
+    },
+    {
+      "run": 27,
+      "input": "invoice_006.json",
+      "status": "ok",
+      "elapsed_s": 62.16,
+      "trace": "run_027.jsonl",
+      "output": "run_027.output.json",
+      "valid": false
+    },
+    {
+      "run": 28,
+      "input": "invoice_006.json",
+      "status": "ok",
+      "elapsed_s": 45.83,
+      "trace": "run_028.jsonl",
+      "output": "run_028.output.json",
+      "valid": false
+    },
+    {
+      "run": 29,
+      "input": "invoice_006.json",
+      "status": "ok",
+      "elapsed_s": 25.39,
+      "trace": "run_029.jsonl",
+      "output": "run_029.output.json",
+      "valid": false
+    },
+    {
+      "run": 30,
+      "input": "invoice_006.json",
+      "status": "ok",
+      "elapsed_s": 46.53,
+      "trace": "run_030.jsonl",
+      "output": "run_030.output.json",
+      "valid": false
+    },
+    {
+      "run": 31,
+      "input": "invoice_007.json",
+      "status": "ok",
+      "elapsed_s": 51.09,
+      "trace": "run_031.jsonl",
+      "output": "run_031.output.json",
+      "valid": false
+    },
+    {
+      "run": 32,
+      "input": "invoice_007.json",
+      "status": "ok",
+      "elapsed_s": 46.85,
+      "trace": "run_032.jsonl",
+      "output": "run_032.output.json",
+      "valid": false
+    },
+    {
+      "run": 33,
+      "input": "invoice_007.json",
+      "status": "ok",
+      "elapsed_s": 32.45,
+      "trace": "run_033.jsonl",
+      "output": "run_033.output.json",
+      "valid": false
+    },
+    {
+      "run": 34,
+      "input": "invoice_007.json",
+      "status": "ok",
+      "elapsed_s": 19.92,
+      "trace": "run_034.jsonl",
+      "output": "run_034.output.json",
+      "valid": false
+    },
+    {
+      "run": 35,
+      "input": "invoice_007.json",
+      "status": "ok",
+      "elapsed_s": 38.02,
+      "trace": "run_035.jsonl",
+      "output": "run_035.output.json",
+      "valid": false
+    },
+    {
+      "run": 36,
+      "input": "invoice_008.json",
+      "status": "ok",
+      "elapsed_s": 50.31,
+      "trace": "run_036.jsonl",
+      "output": "run_036.output.json",
+      "valid": false
+    },
+    {
+      "run": 37,
+      "input": "invoice_008.json",
+      "status": "ok",
+      "elapsed_s": 47.75,
+      "trace": "run_037.jsonl",
+      "output": "run_037.output.json",
+      "valid": false
+    },
+    {
+      "run": 38,
+      "input": "invoice_008.json",
+      "status": "ok",
+      "elapsed_s": 34.38,
+      "trace": "run_038.jsonl",
+      "output": "run_038.output.json",
+      "valid": false
+    },
+    {
+      "run": 39,
+      "input": "invoice_008.json",
+      "status": "ok",
+      "elapsed_s": 43.8,
+      "trace": "run_039.jsonl",
+      "output": "run_039.output.json",
+      "valid": false
+    },
+    {
+      "run": 40,
+      "input": "invoice_008.json",
+      "status": "ok",
+      "elapsed_s": 28.32,
+      "trace": "run_040.jsonl",
+      "output": "run_040.output.json",
+      "valid": false
+    },
+    {
+      "run": 41,
+      "input": "invoice_009.json",
+      "status": "ok",
+      "elapsed_s": 45.73,
+      "trace": "run_041.jsonl",
+      "output": "run_041.output.json",
+      "valid": false
+    },
+    {
+      "run": 42,
+      "input": "invoice_009.json",
+      "status": "ok",
+      "elapsed_s": 51.06,
+      "trace": "run_042.jsonl",
+      "output": "run_042.output.json",
+      "valid": false
+    },
+    {
+      "run": 43,
+      "input": "invoice_009.json",
+      "status": "ok",
+      "elapsed_s": 77.35,
+      "trace": "run_043.jsonl",
+      "output": "run_043.output.json",
+      "valid": false
+    },
+    {
+      "run": 44,
+      "input": "invoice_009.json",
+      "status": "ok",
+      "elapsed_s": 53.47,
+      "trace": "run_044.jsonl",
+      "output": "run_044.output.json",
+      "valid": false
+    },
+    {
+      "run": 45,
+      "input": "invoice_009.json",
+      "status": "ok",
+      "elapsed_s": 39.47,
+      "trace": "run_045.jsonl",
+      "output": "run_045.output.json",
+      "valid": false
+    },
+    {
+      "run": 46,
+      "input": "invoice_010.json",
+      "status": "ok",
+      "elapsed_s": 56.72,
+      "trace": "run_046.jsonl",
+      "output": "run_046.output.json",
+      "valid": false
+    },
+    {
+      "run": 47,
+      "input": "invoice_010.json",
+      "status": "ok",
+      "elapsed_s": 41.29,
+      "trace": "run_047.jsonl",
+      "output": "run_047.output.json",
+      "valid": false
+    },
+    {
+      "run": 48,
+      "input": "invoice_010.json",
+      "status": "ok",
+      "elapsed_s": 46.39,
+      "trace": "run_048.jsonl",
+      "output": "run_048.output.json",
+      "valid": false
+    },
+    {
+      "run": 49,
+      "input": "invoice_010.json",
+      "status": "timeout"
+    },
+    {
+      "run": 50,
+      "input": "invoice_010.json",
+      "status": "ok",
+      "elapsed_s": 20.03,
+      "trace": "run_050.jsonl",
+      "output": "run_050.output.json",
+      "valid": false
+    },
+    {
+      "run": 51,
+      "input": "invoice_011.json",
+      "status": "ok",
+      "elapsed_s": 47.27,
+      "trace": "run_051.jsonl",
+      "output": "run_051.output.json",
+      "valid": false
+    },
+    {
+      "run": 52,
+      "input": "invoice_011.json",
+      "status": "ok",
+      "elapsed_s": 27.99,
+      "trace": "run_052.jsonl",
+      "output": "run_052.output.json",
+      "valid": true
+    },
+    {
+      "run": 53,
+      "input": "invoice_011.json",
+      "status": "ok",
+      "elapsed_s": 49.42,
+      "trace": "run_053.jsonl",
+      "output": "run_053.output.json",
+      "valid": true
+    },
+    {
+      "run": 54,
+      "input": "invoice_011.json",
+      "status": "ok",
+      "elapsed_s": 23.41,
+      "trace": "run_054.jsonl",
+      "output": "run_054.output.json",
+      "valid": true
+    },
+    {
+      "run": 55,
+      "input": "invoice_011.json",
+      "status": "ok",
+      "elapsed_s": 21.01,
+      "trace": "run_055.jsonl",
+      "output": "run_055.output.json",
+      "valid": true
+    },
+    {
+      "run": 56,
+      "input": "invoice_012.json",
+      "status": "ok",
+      "elapsed_s": 73.36,
+      "trace": "run_056.jsonl",
+      "output": "run_056.output.json",
+      "valid": true
+    },
+    {
+      "run": 57,
+      "input": "invoice_012.json",
+      "status": "ok",
+      "elapsed_s": 62.76,
+      "trace": "run_057.jsonl",
+      "output": "run_057.output.json",
+      "valid": true
+    },
+    {
+      "run": 58,
+      "input": "invoice_012.json",
+      "status": "ok",
+      "elapsed_s": 45.49,
+      "trace": "run_058.jsonl",
+      "output": "run_058.output.json",
+      "valid": true
+    },
+    {
+      "run": 59,
+      "input": "invoice_012.json",
+      "status": "ok",
+      "elapsed_s": 27.87,
+      "trace": "run_059.jsonl",
+      "output": "run_059.output.json",
+      "valid": true
+    },
+    {
+      "run": 60,
+      "input": "invoice_012.json",
+      "status": "ok",
+      "elapsed_s": 32.37,
+      "trace": "run_060.jsonl",
+      "output": "run_060.output.json",
+      "valid": true
+    }
+  ]
+}

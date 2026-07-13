@@ -1,0 +1,85 @@
+{
+  "runs": [
+    {
+      "run": 1,
+      "input": "release_001",
+      "status": "ok",
+      "elapsed_s": 42.0,
+      "trace": "run_001.jsonl",
+      "output": "run_001.output.json",
+      "release_id": "release_001"
+    },
+    {
+      "run": 2,
+      "input": "release_001",
+      "status": "ok",
+      "elapsed_s": 92.65,
+      "trace": "run_002.jsonl",
+      "output": "run_002.output.json",
+      "release_id": "release_001"
+    },
+    {
+      "run": 3,
+      "input": "release_001",
+      "status": "ok",
+      "elapsed_s": 91.39,
+      "trace": "run_003.jsonl",
+      "output": "run_003.output.json",
+      "release_id": "release_001"
+    },
+    {
+      "run": 4,
+      "input": "release_002",
+      "status": "ok",
+      "elapsed_s": 60.72,
+      "trace": "run_004.jsonl",
+      "output": "run_004.output.json",
+      "release_id": "release_002"
+    },
+    {
+      "run": 5,
+      "input": "release_002",
+      "status": "ok",
+      "elapsed_s": 60.85,
+      "trace": "run_005.jsonl",
+      "output": "run_005.output.json",
+      "release_id": "release_002"
+    },
+    {
+      "run": 6,
+      "input": "release_002",
+      "status": "ok",
+      "elapsed_s": 67.1,
+      "trace": "run_006.jsonl",
+      "output": "run_006.output.json",
+      "release_id": "release_002"
+    },
+    {
+      "run": 7,
+      "input": "release_003",
+      "status": "ok",
+      "elapsed_s": 63.37,
+      "trace": "run_007.jsonl",
+      "output": "run_007.output.json",
+      "release_id": "release_003"
+    },
+    {
+      "run": 8,
+      "input": "release_003",
+      "status": "ok",
+      "elapsed_s": 63.81,
+      "trace": "run_008.jsonl",
+      "output": "run_008.output.json",
+      "release_id": "release_003"
+    },
+    {
+      "run": 9,
+      "input": "release_003",
+      "status": "ok",
+      "elapsed_s": 64.16,
+      "trace": "run_009.jsonl",
+      "output": "run_009.output.json",
+      "release_id": "release_003"
+    }
+  ]
+}

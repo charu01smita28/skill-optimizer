@@ -1,0 +1,30 @@
+{
+  "loan_id": "MORT-2026-7000",
+  "lender": "Crestwave Mortgage",
+  "computed": {
+    "monthly_payment": 3534.29,
+    "total_interest": 747344.40,
+    "total_paid": 1274839.40
+  },
+  "discrepancies": [
+    {
+      "field": "monthly_payment",
+      "stated": 3453.52,
+      "computed": 3534.29,
+      "delta": 80.77
+    },
+    {
+      "field": "total_interest",
+      "stated": 748327.20,
+      "computed": 747344.40,
+      "delta": -982.80
+    },
+    {
+      "field": "total_paid",
+      "stated": 1275822.20,
+      "computed": 1274839.40,
+      "delta": -982.80
+    }
+  ],
+  "valid": false
+}

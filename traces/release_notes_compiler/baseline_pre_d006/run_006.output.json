@@ -1,0 +1,36 @@
+{
+  "release_id": "release_002",
+  "headline": "This release hardens webhook reliability, introduces compliance-ready retention controls, and surfaces audit and billing data more transparently.",
+  "themes": [
+    {
+      "theme_name": "webhook-reliability",
+      "user_facing_summary": "Duplicate webhook events caused by retries are now eliminated — the idempotency key is honored end-to-end. Delivery failures are also visible directly in the activity log with retry status and last error, so you no longer need to scrape your own server logs to diagnose missed events.",
+      "supporting_changes": [
+        "Fix duplicate webhook delivery on retry by respecting idempotency key",
+        "Surface webhook delivery failures in the activity log UI"
+      ]
+    },
+    {
+      "theme_name": "compliance-and-retention",
+      "user_facing_summary": "Workspaces can now configure a custom data retention policy (defaulting to 90 days) to satisfy SOC 2 and HIPAA requirements. Audit log CSV exports now correctly reflect your workspace timezone instead of silently using UTC.",
+      "supporting_changes": [
+        "Allow custom retention policies per workspace (default 90 days)",
+        "Correct timezone handling in audit log CSV export"
+      ]
+    },
+    {
+      "theme_name": "admin-controls",
+      "user_facing_summary": "Concurrent edits to the same role by two admins now serialize correctly, preventing one admin's changes from silently overwriting the other's.",
+      "supporting_changes": [
+        "Resolve race condition when two admins edit the same role concurrently"
+      ]
+    }
+  ],
+  "notable_changes": [
+    "Billing reports can now be exported as CSV from the workspace settings page",
+    "Webhook idempotency-key contract is now documented for integration and billing-reconciliation teams",
+    "Custom retention policies support configurable compliance windows with a 90-day default",
+    "Audit log CSV exports now use the workspace-configured timezone rather than UTC"
+  ],
+  "customer_voice": "Enterprise customers flagged webhook retries causing duplicate billing events as a SOC 2 audit risk, and compliance teams cited fixed data retention as a renewal blocker — this release addresses both, alongside the audit-log visibility and admin-reliability improvements customers have been asking for."
+}

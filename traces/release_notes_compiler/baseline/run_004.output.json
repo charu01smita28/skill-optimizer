@@ -1,0 +1,44 @@
+{
+  "release_id": "release_002",
+  "headline": "Webhook reliability, compliance, and audit improvements.",
+  "themes": [
+    {
+      "theme_name": "Webhook reliability & idempotency",
+      "user_facing_summary": "Fixed critical issues with webhook delivery that were causing duplicate events on retries. Webhook delivery failures now surface in the activity log, so you can see exactly what succeeded and what failed without checking server logs.",
+      "supporting_changes": [
+        "Fix duplicate webhook delivery on retry by respecting idempotency key",
+        "Surface webhook delivery failures in the activity log UI",
+        "Document the idempotency-key contract for webhook subscribers"
+      ]
+    },
+    {
+      "theme_name": "Compliance & data retention",
+      "user_facing_summary": "Custom retention policies now available per workspace (default 90 days), allowing you to meet SOC 2, HIPAA, and other regulatory requirements without a fixed retention constraint.",
+      "supporting_changes": [
+        "Allow custom retention policies per workspace (default 90 days)"
+      ]
+    },
+    {
+      "theme_name": "Audit & reporting",
+      "user_facing_summary": "Billing reports can now be exported as CSV, and audit log timezone handling is now correct, saving compliance teams hours of manual reconciliation.",
+      "supporting_changes": [
+        "Add CSV export to billing reports",
+        "Correct timezone handling in audit log CSV export"
+      ]
+    },
+    {
+      "theme_name": "Admin collaboration safety",
+      "user_facing_summary": "Fixed a race condition that could occur when two admins edited the same role concurrently, preventing accidental overwrites of permission changes.",
+      "supporting_changes": [
+        "Resolve race condition when two admins edit the same role concurrently"
+      ]
+    }
+  ],
+  "notable_changes": [
+    "Webhook idempotency fix prevents duplicate event delivery and double-billing",
+    "Custom retention policies per workspace for SOC 2 and HIPAA compliance",
+    "Webhook delivery failures now visible in activity log for easier debugging",
+    "Billing reports and audit logs exportable as CSV"
+  ],
+  "customer_voice": "Enterprise customers flagged webhook retries as a billing and SOC 2 audit risk, compliance teams need configurable retention to meet regulatory requirements, and audit departments are looking for ways to reduce manual compliance reporting overhead."
+}

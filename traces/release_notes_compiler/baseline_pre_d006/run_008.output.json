@@ -1,0 +1,38 @@
+{
+  "release_id": "release_003",
+  "headline": "Enterprise-ready authentication lands in this release: SAML 2.0 SSO, SCIM provisioning, custom roles, and measurably faster auth and download performance.",
+  "themes": [
+    {
+      "theme_name": "sso",
+      "user_facing_summary": "Connect your identity provider once and manage access entirely from Okta or Azure AD. SAML 2.0 with certified configurations for both providers is now live, alongside a SCIM 2.0 endpoint for automated user lifecycle management — a hard requirement for IT teams that provision exclusively from their IdP.",
+      "supporting_changes": [
+        "FEAT-401: SSO via SAML 2.0 — Okta and Azure AD certified configurations",
+        "FEAT-410: SCIM 2.0 user provisioning endpoint",
+        "DOCS-101: SSO setup guide with screenshots for Okta and Azure AD admins"
+      ]
+    },
+    {
+      "theme_name": "roles",
+      "user_facing_summary": "Workspaces can now define their own permission sets instead of being limited to the four built-in presets. Custom roles let you model your org structure exactly — no more forcing non-standard hierarchies into admin, member, viewer, or billing-only.",
+      "supporting_changes": [
+        "FEAT-402: Workspace-level custom role definitions, replacing the 4 fixed presets"
+      ]
+    },
+    {
+      "theme_name": "performance",
+      "user_facing_summary": "Authentication is significantly faster thanks to session caching that cuts auth round-trips by ~80%, and large file downloads are snappier with signed-URL generation removed from the critical request path — reducing p99 download latency by ~120 ms.",
+      "supporting_changes": [
+        "PERF-501: Cache session lookups to reduce auth round-trips by ~80%",
+        "PERF-505: Move signed-URL generation out of the request hot path"
+      ]
+    }
+  ],
+  "notable_changes": [
+    "SAML 2.0 SSO is certified for Okta and Azure AD; custom IdP setup is available via the workspace SSO settings page",
+    "SCIM 2.0 endpoint supports create, update, and deactivate — group-based role mapping is on the roadmap but not included in this release",
+    "Token rotation now follows per-workspace policy, configurable from 1 to 24 hours (default 12 hours)",
+    "Session cache is invalidated automatically on session revoke or password change",
+    "New SSO setup guide with annotated screenshots removes the SAML expertise barrier for admins who aren't already fluent in SAML"
+  ],
+  "customer_voice": "Enterprise security teams pushed hard for SSO — multiple deals were explicitly on hold until this shipped. Custom roles and SCIM provisioning addressed direct requests from prospects whose orgs outgrew the four fixed presets and whose IT teams manage users exclusively through their identity provider."
+}

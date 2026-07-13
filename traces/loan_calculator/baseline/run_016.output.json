@@ -1,0 +1,30 @@
+{
+  "loan_id": "PERS-2026-5511",
+  "lender": "Northpoint Personal",
+  "computed": {
+    "monthly_payment": 335.27,
+    "total_interest": 2069.72,
+    "total_paid": 12219.72
+  },
+  "discrepancies": [
+    {
+      "field": "monthly_payment",
+      "stated": 322.62,
+      "computed": 335.27,
+      "delta": 12.65
+    },
+    {
+      "field": "total_interest",
+      "stated": 1614.32,
+      "computed": 2069.72,
+      "delta": 455.40
+    },
+    {
+      "field": "total_paid",
+      "stated": 11764.32,
+      "computed": 12219.72,
+      "delta": 455.40
+    }
+  ],
+  "valid": false
+}

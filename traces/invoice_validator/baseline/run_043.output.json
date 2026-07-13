@@ -1,0 +1,37 @@
+{
+  "invoice_id": "HW-2026-0274",
+  "vendor": "Ridgeline Hardware Co.",
+  "computed": {
+    "subtotal": 4040.00,
+    "discount": 202.00,
+    "tax": 307.04,
+    "total": 4220.04
+  },
+  "discrepancies": [
+    {
+      "field": "subtotal",
+      "stated": 4400.00,
+      "computed": 4040.00,
+      "delta": -360.00
+    },
+    {
+      "field": "discount",
+      "stated": 220.00,
+      "computed": 202.00,
+      "delta": -18.00
+    },
+    {
+      "field": "tax",
+      "stated": 334.40,
+      "computed": 307.04,
+      "delta": -27.36
+    },
+    {
+      "field": "total",
+      "stated": 4589.40,
+      "computed": 4220.04,
+      "delta": -369.36
+    }
+  ],
+  "valid": false
+}

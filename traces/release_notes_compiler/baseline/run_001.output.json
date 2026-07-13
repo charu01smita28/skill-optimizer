@@ -1,0 +1,32 @@
+{
+  "release_id": "release_001",
+  "headline": "Faster dashboards, simpler onboarding — the top two improvements from your feedback.",
+  "themes": [
+    {
+      "theme_name": "performance",
+      "user_facing_summary": "We've optimized your dashboard and workspace interactions. Dashboard load times are now 67% faster, and workspace member listing is snappier for larger teams.",
+      "supporting_changes": [
+        "Reduce dashboard p95 latency from 2.4s to 800ms via DB call batching",
+        "Add Redis caching layer to org-settings API",
+        "Eliminate N+1 query in workspace member listing endpoint"
+      ]
+    },
+    {
+      "theme_name": "onboarding",
+      "user_facing_summary": "Getting started is now streamlined. Signup is down to 2 steps from 5, and we've added guided tooltips on your first dashboard to help you find what matters.",
+      "supporting_changes": [
+        "Replace 5-step signup with email-first 2-step flow",
+        "Add inline tooltips on first-run dashboard for top 4 metrics",
+        "Defer non-essential profile fields to post-signup"
+      ]
+    }
+  ],
+  "notable_changes": [
+    "Dashboard p95 latency reduced from 2.4s to 800ms — directly addressing your #1 performance complaint",
+    "Signup completion improved through streamlined 2-step flow (previously 5 steps)",
+    "Workspace member listing is ~30% faster for teams with 50+ members",
+    "First-run experience now includes inline guidance for your most-used metrics",
+    "API quickstart documentation updated to clarify the new authentication model"
+  ],
+  "customer_voice": "Your Q2 feedback highlighted two critical pain points: dashboard performance issues flagged in our NPS survey as the top complaint, and signup friction where we were losing 3 signups per week at step 3. This release addresses both directly."
+}

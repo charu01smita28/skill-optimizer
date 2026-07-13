@@ -1,0 +1,15 @@
+{
+  "redline_id": "redline_003",
+  "changes": [
+    {
+      "category": "ip_assignment",
+      "summary": "IP ownership shifted from exclusive Provider ownership to Customer retention of all rights except limited Provider use of feedback.",
+      "original_text": "All right, title, and interest in and to any feedback, suggestions, ideas, comments, improvements, modifications, or other information of any kind provided by Customer to Provider, and any derivative works thereof, shall be owned exclusively by Provider. Customer hereby irrevocably assigns to Provider all such rights without further compensation.",
+      "redline_text": "Provider may use feedback and suggestions voluntarily provided by Customer for the limited purpose of improving the Services. Customer retains all right, title, and interest in any other information, materials, business processes, or proprietary insights shared with Provider in the course of receiving the Services.",
+      "risk_to_customer": "decreased",
+      "rationale": "The redline substantially improves the customer's position by retaining ownership of proprietary information and limiting Provider's rights to feedback, reversing the one-sided IP assignment in the original."
+    }
+  ],
+  "overall_redline_acceptable": true,
+  "confidence": 0.95
+}

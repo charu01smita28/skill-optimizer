@@ -1,0 +1,18 @@
+{
+  "loan_id": "MORT-2026-0808",
+  "lender": "Summit Home Loans",
+  "computed": {
+    "monthly_payment": 2401.86,
+    "total_interest": 484669.6,
+    "total_paid": 866169.6
+  },
+  "discrepancies": [
+    {
+      "field": "total_interest",
+      "stated": 484237.5,
+      "computed": 484669.6,
+      "delta": 432.1
+    }
+  ],
+  "valid": false
+}

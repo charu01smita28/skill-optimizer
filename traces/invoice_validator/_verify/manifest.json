@@ -1,0 +1,13 @@
+{
+  "runs": [
+    {
+      "run": 1,
+      "input": "invoice_001.json",
+      "status": "ok",
+      "elapsed_s": 35.84,
+      "trace": "invoice_001.jsonl",
+      "output": "invoice_001.output.json",
+      "valid": true
+    }
+  ]
+}
